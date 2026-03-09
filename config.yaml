@@ -1,0 +1,85 @@
+project:
+  name: vit_proj_ku_ar
+  experiment_name: vit_proj_fusion
+  output_dir: outputs/default_run
+  seed: 42
+
+data:
+  ku_dir: 'E:\DSs\MLP\code\TRDG\data\350k\ku'
+  ar_dir: 'E:\DSs\MLP\code\TRDG\data\350k\ar'
+  train_csv: data/train.csv
+  val_csv: data/val.csv
+  test_csv: data/test.csv
+  allowed_extensions:
+    - .jpg
+    - .jpeg
+    - .png
+    - .bmp
+    - .tif
+    - .tiff
+  labels:
+    ku: 0
+    ar: 1
+  num_classes: 2
+
+split:
+  train_ratio: 0.7
+  val_ratio: 0.15
+  test_ratio: 0.15
+  group_regex: '^(F\d+_S\d+)_'
+  seed: 42
+  rebuild_csv: false
+
+transforms:
+  img_h: 64
+  img_w: 256
+  in_chans: 3
+  binarize: false
+  crop_to_text: false
+  crop_pad: 2
+  interpolation: bilinear
+  mean: [0.5, 0.5, 0.5]
+  std: [0.5, 0.5, 0.5]
+
+projection:
+  enabled: true
+  h_proj_length: 64
+  v_proj_length: 256
+  input_mode: binary_count
+  hidden_dim: 256
+  dropout: 0.2
+
+model:
+  type: vit_projection_fusion
+  model_name: vit_tiny_patch16_224
+  pretrained: true
+  dropout: 0.2
+  fusion_hidden_dim: 256
+
+optimizer:
+  name: adamw
+  lr: 0.0003
+  weight_decay: 0.01
+
+scheduler:
+  name: cosine
+  min_lr: 1.0e-06
+  warmup_epochs: 0
+
+trainer:
+  batch_size: 128
+  num_workers: 0
+  epochs: 10
+  device: cuda
+  mixed_precision: true
+  label_smoothing: 0.0
+  grad_clip_norm: 1.0
+  early_stopping_patience: 3
+  log_every_n_steps: 50
+  checkpoint_metric: macro_f1
+  evaluate_test_after_train: true
+
+logging:
+  level: INFO
+  save_confusion_matrix: true
+  metrics_filename: metrics.json
