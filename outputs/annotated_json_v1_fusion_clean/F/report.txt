@@ -1,0 +1,16 @@
+[no_knn]
+accuracy: 0.6154
+macro_f1: 0.3810
+total_correct: 8
+total_scored_words: 13
+confusion_matrix: [[0, 0], [5, 8]]
+ambiguous_summary: {'ar_kurdish': {'Kurdish': 2}}
+
+[knn]
+accuracy: 0.5385
+macro_f1: 0.3500
+total_correct: 7
+total_scored_words: 13
+confusion_matrix: [[0, 0], [6, 7]]
+ambiguous_summary: {'ar_kurdish': {'Arabic': 2}}
+

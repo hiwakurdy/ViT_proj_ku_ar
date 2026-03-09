@@ -1,0 +1,16 @@
+[no_knn]
+accuracy: 0.8415
+macro_f1: 0.8396
+total_correct: 154
+total_scored_words: 183
+confusion_matrix: [[67, 6], [23, 87]]
+ambiguous_summary: {'ar_kurdish': {'Kurdish': 13, 'Arabic': 4}, 'ku_arabic': {'Kurdish': 10, 'Arabic': 1}, 'arabic_name': {'Kurdish': 5, 'Arabic': 5}}
+
+[knn]
+accuracy: 0.8743
+macro_f1: 0.8725
+total_correct: 160
+total_scored_words: 183
+confusion_matrix: [[69, 4], [19, 91]]
+ambiguous_summary: {'ar_kurdish': {'Kurdish': 8, 'Arabic': 9}, 'ku_arabic': {'Kurdish': 10, 'Arabic': 1}, 'arabic_name': {'Kurdish': 4, 'Arabic': 6}}
+

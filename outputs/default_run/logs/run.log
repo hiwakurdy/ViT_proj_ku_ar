@@ -1,0 +1,41 @@
+2026-03-09 15:56:24,271 | INFO | Using split files: {'train': 'E:\\Antigravity_Code\\ViT_proj_ku_ar\\data\\train.csv', 'val': 'E:\\Antigravity_Code\\ViT_proj_ku_ar\\data\\val.csv', 'test': 'E:\\Antigravity_Code\\ViT_proj_ku_ar\\data\\test.csv'}
+2026-03-09 15:56:24,271 | INFO | Split CSVs are ready.
+2026-03-09 15:58:03,653 | INFO | Using split files: {'train': 'E:\\Antigravity_Code\\ViT_proj_ku_ar\\data\\train.csv', 'val': 'E:\\Antigravity_Code\\ViT_proj_ku_ar\\data\\val.csv', 'test': 'E:\\Antigravity_Code\\ViT_proj_ku_ar\\data\\test.csv'}
+2026-03-09 15:58:03,663 | INFO | Resolved device: cuda
+2026-03-09 16:00:28,167 | INFO | Using split files: {'train': 'E:\\Antigravity_Code\\ViT_proj_ku_ar\\data\\train.csv', 'val': 'E:\\Antigravity_Code\\ViT_proj_ku_ar\\data\\val.csv', 'test': 'E:\\Antigravity_Code\\ViT_proj_ku_ar\\data\\test.csv'}
+2026-03-09 16:00:28,184 | INFO | Resolved device: cuda
+2026-03-09 16:02:48,807 | INFO | Using split files: {'train': 'E:\\Antigravity_Code\\ViT_proj_ku_ar\\data\\train.csv', 'val': 'E:\\Antigravity_Code\\ViT_proj_ku_ar\\data\\val.csv', 'test': 'E:\\Antigravity_Code\\ViT_proj_ku_ar\\data\\test.csv'}
+2026-03-09 16:02:48,812 | INFO | Resolved device: cuda
+2026-03-09 16:13:10,560 | INFO | Using split files: {'train': 'E:\\Antigravity_Code\\ViT_proj_ku_ar\\data\\train.csv', 'val': 'E:\\Antigravity_Code\\ViT_proj_ku_ar\\data\\val.csv', 'test': 'E:\\Antigravity_Code\\ViT_proj_ku_ar\\data\\test.csv'}
+2026-03-09 16:13:10,570 | INFO | Resolved device: cuda
+2026-03-09 16:37:04,795 | INFO | epoch=1 train loss=0.1354 acc=0.9427
+2026-03-09 16:38:10,587 | INFO | epoch=1 train loss=0.1508 acc=0.9354
+2026-03-09 16:47:33,172 | INFO | val loss=1.0789 acc=0.7711 macro_f1=0.7683
+2026-03-09 16:47:33,181 | INFO | val loss=1.3912 acc=0.7732 macro_f1=0.7705
+2026-03-09 17:04:58,574 | INFO | epoch=2 train loss=0.0681 acc=0.9730
+2026-03-09 17:05:10,323 | INFO | epoch=2 train loss=0.0581 acc=0.9767
+2026-03-09 17:06:36,148 | INFO | val loss=1.6042 acc=0.7312 macro_f1=0.7301
+2026-03-09 17:06:55,964 | INFO | val loss=1.0560 acc=0.7831 macro_f1=0.7827
+2026-03-09 17:21:03,609 | INFO | epoch=3 train loss=0.0439 acc=0.9828
+2026-03-09 17:21:39,963 | INFO | epoch=3 train loss=0.0391 acc=0.9845
+2026-03-09 17:30:58,600 | INFO | val loss=1.2623 acc=0.7668 macro_f1=0.7665
+2026-03-09 17:30:58,607 | INFO | val loss=1.1434 acc=0.7697 macro_f1=0.7697
+2026-03-09 17:44:04,720 | INFO | epoch=4 train loss=0.0335 acc=0.9866
+2026-03-09 17:44:21,085 | INFO | epoch=4 train loss=0.0296 acc=0.9881
+2026-03-09 17:45:43,878 | INFO | val loss=1.5839 acc=0.7464 macro_f1=0.7462
+2026-03-09 17:45:43,878 | INFO | Early stopping triggered after epoch 4.
+2026-03-09 17:45:43,880 | INFO | Best checkpoint saved to E:\Antigravity_Code\ViT_proj_ku_ar\outputs\default_run\checkpoints\best.pt
+2026-03-09 17:45:44,011 | INFO | Loaded best checkpoint from epoch 2
+2026-03-09 17:46:07,708 | INFO | val loss=1.9157 acc=0.7416 macro_f1=0.7416
+2026-03-09 17:57:06,527 | INFO | test loss=1.5581 acc=0.6904 macro_f1=0.6903
+2026-03-09 18:09:42,436 | INFO | Using split files: {'train': 'E:\\Antigravity_Code\\ViT_proj_ku_ar\\data\\train.csv', 'val': 'E:\\Antigravity_Code\\ViT_proj_ku_ar\\data\\val.csv', 'test': 'E:\\Antigravity_Code\\ViT_proj_ku_ar\\data\\test.csv'}
+2026-03-09 18:09:42,453 | INFO | Resolved device: cuda
+2026-03-09 18:11:07,416 | INFO | Using split files: {'train': 'E:\\Antigravity_Code\\ViT_proj_ku_ar\\data\\train.csv', 'val': 'E:\\Antigravity_Code\\ViT_proj_ku_ar\\data\\val.csv', 'test': 'E:\\Antigravity_Code\\ViT_proj_ku_ar\\data\\test.csv'}
+2026-03-09 18:11:07,426 | INFO | Resolved device: cuda
+2026-03-09 18:17:02,579 | INFO | epoch=5 train loss=0.0237 acc=0.9904
+2026-03-09 18:21:55,157 | INFO | test loss=1.5581 acc=0.6904 macro_f1=0.6903
+2026-03-09 18:29:14,221 | INFO | val loss=2.2148 acc=0.6889 macro_f1=0.6847
+2026-03-09 18:29:14,221 | INFO | Early stopping triggered after epoch 5.
+2026-03-09 18:29:14,223 | INFO | Best checkpoint saved to E:\Antigravity_Code\ViT_proj_ku_ar\outputs\default_run\checkpoints\best.pt
+2026-03-09 18:29:14,566 | INFO | Loaded best checkpoint from epoch 2
+2026-03-09 18:32:36,661 | INFO | test loss=1.5581 acc=0.6904 macro_f1=0.6903

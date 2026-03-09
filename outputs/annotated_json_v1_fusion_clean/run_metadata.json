@@ -1,0 +1,17 @@
+{
+  "config": "E:\\Antigravity_Code\\ViT_proj_ku_ar\\configs\\vit_proj_fusion.yaml",
+  "checkpoint": "E:\\Antigravity_Code\\ViT_proj_ku_ar\\outputs\\vit_proj_fusion\\checkpoints\\best.pt",
+  "json": "E:\\Antigravity_Code\\first_pub\\data\\anotatd_lines\\outs\\v2_D\\v1.json",
+  "image_dir": "E:\\Antigravity_Code\\first_pub\\data\\anotatd_lines\\outs\\v2_D\\images",
+  "labels": [
+    "ku",
+    "ar"
+  ],
+  "category_map": {
+    "2": 1,
+    "1": 0,
+    "3": -1,
+    "4": -1,
+    "5": -1
+  }
+}

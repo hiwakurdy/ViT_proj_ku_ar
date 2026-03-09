@@ -1,0 +1,14 @@
+2026-03-09 22:58:17,449 | INFO | Using split files: {'train': 'E:\\Antigravity_Code\\ViT_proj_ku_ar\\data\\train.csv', 'val': 'E:\\Antigravity_Code\\ViT_proj_ku_ar\\data\\val.csv', 'test': 'E:\\Antigravity_Code\\ViT_proj_ku_ar\\data\\test.csv'}
+2026-03-09 22:58:17,465 | INFO | Resolved device: cuda
+2026-03-09 23:11:00,062 | INFO | epoch=1 train loss=0.2032 acc=0.9104
+2026-03-09 23:23:26,246 | INFO | val loss=0.2748 acc=0.8852 macro_f1=0.8851
+2026-03-09 23:43:04,375 | INFO | epoch=2 train loss=0.1364 acc=0.9421
+2026-03-09 23:46:25,308 | INFO | val loss=0.3483 acc=0.8696 macro_f1=0.8695
+2026-03-10 00:00:53,234 | INFO | epoch=3 train loss=0.1061 acc=0.9558
+2026-03-10 00:02:51,976 | INFO | val loss=0.4268 acc=0.8781 macro_f1=0.8781
+2026-03-10 00:12:26,257 | INFO | epoch=4 train loss=0.0838 acc=0.9657
+2026-03-10 00:14:25,334 | INFO | val loss=0.3885 acc=0.8705 macro_f1=0.8703
+2026-03-10 00:14:25,334 | INFO | Early stopping triggered after epoch 4.
+2026-03-10 00:14:25,335 | INFO | Best checkpoint saved to E:\Antigravity_Code\ViT_proj_ku_ar\outputs\vit_proj_fusion\checkpoints\best.pt
+2026-03-10 00:14:25,492 | INFO | Loaded best checkpoint from epoch 1
+2026-03-10 00:24:38,878 | INFO | test loss=0.2612 acc=0.8922 macro_f1=0.8921

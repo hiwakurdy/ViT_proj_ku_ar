@@ -8,14 +8,3 @@ __pycache__/
 venv/
 .idea/
 .vscode/
-
-data/*.csv
-!data/.gitkeep
-
-outputs/**
-!outputs/.gitkeep
-
-*.pt
-*.pth
-*.ckpt
-
