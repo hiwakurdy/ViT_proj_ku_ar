@@ -1,0 +1,47 @@
+{
+  "accuracy": 0.8199052132701422,
+  "macro_precision": 0.8220500176118352,
+  "macro_recall": 0.8120832859255889,
+  "macro_f1": 0.8151043468234751,
+  "per_class": {
+    "Kurdish": {
+      "precision": 0.8117647058823529,
+      "recall": 0.8808510638297873,
+      "f1": 0.8448979591836735,
+      "support": 235
+    },
+    "Arabic": {
+      "precision": 0.8323353293413174,
+      "recall": 0.7433155080213903,
+      "f1": 0.7853107344632768,
+      "support": 187
+    }
+  },
+  "confusion_matrix": [
+    [
+      207,
+      28
+    ],
+    [
+      48,
+      139
+    ]
+  ],
+  "total_scored_words": 422,
+  "total_correct": 346,
+  "slice": "F",
+  "mode": "no_knn",
+  "ambiguous_summary": {
+    "ar_kurdish": {
+      "Kurdish": 15,
+      "Arabic": 1
+    },
+    "ku_arabic": {
+      "Kurdish": 31
+    },
+    "arabic_name": {
+      "Arabic": 3,
+      "Kurdish": 9
+    }
+  }
+}

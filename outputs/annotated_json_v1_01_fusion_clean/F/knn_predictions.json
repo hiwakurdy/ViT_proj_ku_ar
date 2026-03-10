@@ -1,0 +1,9227 @@
+{
+  "F0_S26_W0 (2).jpg": [
+    {
+      "pred_label": 1,
+      "confidence": 0.9996963739395142,
+      "probs": [
+        0.0003036309499293566,
+        0.9996963739395142
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        11,
+        12,
+        47,
+        20
+      ],
+      "smoothed": false,
+      "pred_name": "Arabic",
+      "gt_name": "Arabic"
+    },
+    {
+      "pred_label": 1,
+      "confidence": 0.8852869272232056,
+      "probs": [
+        0.11471301317214966,
+        0.8852869272232056
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        59,
+        11,
+        40,
+        23
+      ],
+      "smoothed": true,
+      "pred_name": "Arabic",
+      "gt_name": "Arabic"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.8175981044769287,
+      "probs": [
+        0.8175981044769287,
+        0.1824018657207489
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        99,
+        10,
+        28,
+        24
+      ],
+      "smoothed": true,
+      "pred_name": "Kurdish",
+      "gt_name": "Arabic"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.8271150588989258,
+      "probs": [
+        0.8271150588989258,
+        0.17288488149642944
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        124,
+        15,
+        26,
+        20
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Arabic"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.8271150588989258,
+      "probs": [
+        0.8271150588989258,
+        0.17288488149642944
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        151,
+        13,
+        50,
+        22
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Arabic"
+    },
+    {
+      "pred_label": 1,
+      "confidence": 0.9990174770355225,
+      "probs": [
+        0.000982519006356597,
+        0.9990174770355225
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        200,
+        9,
+        46,
+        25
+      ],
+      "smoothed": false,
+      "pred_name": "Arabic",
+      "gt_name": "Arabic"
+    },
+    {
+      "pred_label": 1,
+      "confidence": 0.9990174770355225,
+      "probs": [
+        0.000982519006356597,
+        0.9990174770355225
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        244,
+        10,
+        36,
+        22
+      ],
+      "smoothed": false,
+      "pred_name": "Arabic",
+      "gt_name": "Arabic"
+    },
+    {
+      "pred_label": 1,
+      "confidence": 0.9834351539611816,
+      "probs": [
+        0.016564805060625076,
+        0.9834351539611816
+      ],
+      "gt_label": -1,
+      "category_id": 5,
+      "bbox": [
+        279,
+        12,
+        21,
+        23
+      ],
+      "smoothed": true,
+      "pred_name": "Arabic",
+      "gt_name": "ambiguous"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.8978381156921387,
+      "probs": [
+        0.8978381156921387,
+        0.10216186195611954
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        298,
+        13,
+        29,
+        18
+      ],
+      "smoothed": true,
+      "pred_name": "Kurdish",
+      "gt_name": "Arabic"
+    },
+    {
+      "pred_label": 1,
+      "confidence": 0.8493236303329468,
+      "probs": [
+        0.1506764143705368,
+        0.8493236303329468
+      ],
+      "gt_label": -1,
+      "category_id": 5,
+      "bbox": [
+        327,
+        16,
+        19,
+        18
+      ],
+      "smoothed": true,
+      "pred_name": "Arabic",
+      "gt_name": "ambiguous"
+    },
+    {
+      "pred_label": 1,
+      "confidence": 0.8639460802078247,
+      "probs": [
+        0.1360539048910141,
+        0.8639460802078247
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        342,
+        13,
+        47,
+        20
+      ],
+      "smoothed": false,
+      "pred_name": "Arabic",
+      "gt_name": "Arabic"
+    },
+    {
+      "pred_label": 1,
+      "confidence": 0.7434512972831726,
+      "probs": [
+        0.256548672914505,
+        0.7434512972831726
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        389,
+        12,
+        41,
+        21
+      ],
+      "smoothed": false,
+      "pred_name": "Arabic",
+      "gt_name": "Arabic"
+    },
+    {
+      "pred_label": 1,
+      "confidence": 0.7500102519989014,
+      "probs": [
+        0.24998971819877625,
+        0.7500102519989014
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        427,
+        12,
+        19,
+        22
+      ],
+      "smoothed": false,
+      "pred_name": "Arabic",
+      "gt_name": "Arabic"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.998941957950592,
+      "probs": [
+        0.998941957950592,
+        0.001058000954799354
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        444,
+        10,
+        24,
+        27
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Arabic"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.998941957950592,
+      "probs": [
+        0.998941957950592,
+        0.001058000954799354
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        466,
+        11,
+        17,
+        26
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Arabic"
+    }
+  ],
+  "F0_S26_W0 (3).jpg": [
+    {
+      "pred_label": 0,
+      "confidence": 0.901133120059967,
+      "probs": [
+        0.901133120059967,
+        0.09886687994003296
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        11,
+        13,
+        77,
+        22
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.9340727925300598,
+      "probs": [
+        0.9340727925300598,
+        0.06592715531587601
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        89,
+        15,
+        30,
+        17
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.932915985584259,
+      "probs": [
+        0.932915985584259,
+        0.06708398461341858
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        118,
+        16,
+        63,
+        18
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.997762143611908,
+      "probs": [
+        0.997762143611908,
+        0.0022378924768418074
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        181,
+        15,
+        28,
+        18
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.9864634871482849,
+      "probs": [
+        0.9864634871482849,
+        0.013536539860069752
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        210,
+        14,
+        55,
+        18
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.9532027244567871,
+      "probs": [
+        0.9532027244567871,
+        0.04679727926850319
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        266,
+        16,
+        21,
+        17
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.9168785214424133,
+      "probs": [
+        0.9168785214424133,
+        0.08312136679887772
+      ],
+      "gt_label": -1,
+      "category_id": 4,
+      "bbox": [
+        286,
+        19,
+        13,
+        13
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "ambiguous"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.9278656840324402,
+      "probs": [
+        0.9278656840324402,
+        0.07213432341814041
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        300,
+        12,
+        52,
+        21
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.9613390564918518,
+      "probs": [
+        0.9613390564918518,
+        0.03866090252995491
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        354,
+        16,
+        46,
+        19
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.9980769753456116,
+      "probs": [
+        0.9980769753456116,
+        0.0019229885656386614
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        400,
+        14,
+        70,
+        19
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    }
+  ],
+  "F0_S26_W0.jpg": [
+    {
+      "pred_label": 1,
+      "confidence": 0.8336505889892578,
+      "probs": [
+        0.166349396109581,
+        0.8336505889892578
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        8,
+        10,
+        37,
+        22
+      ],
+      "smoothed": false,
+      "pred_name": "Arabic",
+      "gt_name": "Arabic"
+    },
+    {
+      "pred_label": 1,
+      "confidence": 0.7230095267295837,
+      "probs": [
+        0.27699050307273865,
+        0.7230095267295837
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        44,
+        10,
+        38,
+        21
+      ],
+      "smoothed": false,
+      "pred_name": "Arabic",
+      "gt_name": "Arabic"
+    },
+    {
+      "pred_label": 1,
+      "confidence": 0.8337485790252686,
+      "probs": [
+        0.16625142097473145,
+        0.8337485790252686
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        82,
+        15,
+        13,
+        17
+      ],
+      "smoothed": false,
+      "pred_name": "Arabic",
+      "gt_name": "Arabic"
+    },
+    {
+      "pred_label": 1,
+      "confidence": 0.7507462501525879,
+      "probs": [
+        0.2492537647485733,
+        0.7507462501525879
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        94,
+        10,
+        38,
+        22
+      ],
+      "smoothed": false,
+      "pred_name": "Arabic",
+      "gt_name": "Arabic"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.9904073476791382,
+      "probs": [
+        0.9904073476791382,
+        0.009592690505087376
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        133,
+        15,
+        70,
+        13
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.9445778727531433,
+      "probs": [
+        0.9445778727531433,
+        0.05542217567563057
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        205,
+        11,
+        63,
+        20
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.926345944404602,
+      "probs": [
+        0.926345944404602,
+        0.07365405559539795
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        267,
+        13,
+        18,
+        16
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 1,
+      "confidence": 0.8048039674758911,
+      "probs": [
+        0.19519612193107605,
+        0.8048039674758911
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        284,
+        12,
+        21,
+        19
+      ],
+      "smoothed": false,
+      "pred_name": "Arabic",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 1,
+      "confidence": 0.8669349551200867,
+      "probs": [
+        0.1330650895833969,
+        0.8669349551200867
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        305,
+        14,
+        13,
+        19
+      ],
+      "smoothed": false,
+      "pred_name": "Arabic",
+      "gt_name": "Arabic"
+    },
+    {
+      "pred_label": 1,
+      "confidence": 0.9965631365776062,
+      "probs": [
+        0.0034368836786597967,
+        0.9965631365776062
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        320,
+        13,
+        32,
+        19
+      ],
+      "smoothed": false,
+      "pred_name": "Arabic",
+      "gt_name": "Arabic"
+    },
+    {
+      "pred_label": 1,
+      "confidence": 0.9299837946891785,
+      "probs": [
+        0.07001616805791855,
+        0.9299837946891785
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        353,
+        14,
+        33,
+        16
+      ],
+      "smoothed": false,
+      "pred_name": "Arabic",
+      "gt_name": "Arabic"
+    },
+    {
+      "pred_label": 1,
+      "confidence": 0.93156498670578,
+      "probs": [
+        0.06843500584363937,
+        0.93156498670578
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        387,
+        12,
+        28,
+        17
+      ],
+      "smoothed": false,
+      "pred_name": "Arabic",
+      "gt_name": "Arabic"
+    },
+    {
+      "pred_label": 1,
+      "confidence": 0.897432804107666,
+      "probs": [
+        0.10256718844175339,
+        0.897432804107666
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        415,
+        12,
+        44,
+        18
+      ],
+      "smoothed": false,
+      "pred_name": "Arabic",
+      "gt_name": "Arabic"
+    }
+  ],
+  "F0_S26_W1 (2).jpg": [
+    {
+      "pred_label": 1,
+      "confidence": 0.9984637498855591,
+      "probs": [
+        0.001536316005513072,
+        0.9984637498855591
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        7,
+        7,
+        47,
+        28
+      ],
+      "smoothed": false,
+      "pred_name": "Arabic",
+      "gt_name": "Arabic"
+    },
+    {
+      "pred_label": 1,
+      "confidence": 0.8465312719345093,
+      "probs": [
+        0.1534688025712967,
+        0.8465312719345093
+      ],
+      "gt_label": -1,
+      "category_id": 5,
+      "bbox": [
+        54,
+        17,
+        19,
+        15
+      ],
+      "smoothed": true,
+      "pred_name": "Arabic",
+      "gt_name": "ambiguous"
+    },
+    {
+      "pred_label": 1,
+      "confidence": 0.7171169519424438,
+      "probs": [
+        0.28288304805755615,
+        0.7171169519424438
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        75,
+        16,
+        25,
+        18
+      ],
+      "smoothed": false,
+      "pred_name": "Arabic",
+      "gt_name": "Arabic"
+    },
+    {
+      "pred_label": 1,
+      "confidence": 0.7871670126914978,
+      "probs": [
+        0.21283304691314697,
+        0.7871670126914978
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        100,
+        12,
+        32,
+        21
+      ],
+      "smoothed": false,
+      "pred_name": "Arabic",
+      "gt_name": "Arabic"
+    },
+    {
+      "pred_label": 1,
+      "confidence": 0.8334511518478394,
+      "probs": [
+        0.16654890775680542,
+        0.8334511518478394
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        136,
+        10,
+        11,
+        24
+      ],
+      "smoothed": false,
+      "pred_name": "Arabic",
+      "gt_name": "Arabic"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.9324119091033936,
+      "probs": [
+        0.9324119091033936,
+        0.06758811324834824
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        150,
+        11,
+        43,
+        22
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Arabic"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.9324119091033936,
+      "probs": [
+        0.9324119091033936,
+        0.06758811324834824
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        193,
+        13,
+        32,
+        18
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Arabic"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.7604038715362549,
+      "probs": [
+        0.7604038715362549,
+        0.23959605395793915
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        221,
+        8,
+        23,
+        25
+      ],
+      "smoothed": true,
+      "pred_name": "Kurdish",
+      "gt_name": "Arabic"
+    },
+    {
+      "pred_label": 1,
+      "confidence": 0.9916289448738098,
+      "probs": [
+        0.008371027186512947,
+        0.9916289448738098
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        243,
+        8,
+        16,
+        23
+      ],
+      "smoothed": true,
+      "pred_name": "Arabic",
+      "gt_name": "Arabic"
+    },
+    {
+      "pred_label": 1,
+      "confidence": 0.9852780103683472,
+      "probs": [
+        0.014721970073878765,
+        0.9852780103683472
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        258,
+        11,
+        46,
+        23
+      ],
+      "smoothed": false,
+      "pred_name": "Arabic",
+      "gt_name": "Arabic"
+    },
+    {
+      "pred_label": 1,
+      "confidence": 0.9852780103683472,
+      "probs": [
+        0.014721970073878765,
+        0.9852780103683472
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        303,
+        11,
+        25,
+        22
+      ],
+      "smoothed": false,
+      "pred_name": "Arabic",
+      "gt_name": "Arabic"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.9755802154541016,
+      "probs": [
+        0.9755802154541016,
+        0.02441975846886635
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        331,
+        13,
+        22,
+        23
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Arabic"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.9755802154541016,
+      "probs": [
+        0.9755802154541016,
+        0.02441975846886635
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        352,
+        15,
+        38,
+        19
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Arabic"
+    }
+  ],
+  "F0_S26_W1 (3).jpg": [
+    {
+      "pred_label": 0,
+      "confidence": 0.9760934114456177,
+      "probs": [
+        0.9760934114456177,
+        0.02390655130147934
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        12,
+        14,
+        35,
+        21
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.9416970610618591,
+      "probs": [
+        0.9416970610618591,
+        0.05830294266343117
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        49,
+        13,
+        57,
+        22
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.9273603558540344,
+      "probs": [
+        0.9273603558540344,
+        0.07263955473899841
+      ],
+      "gt_label": -1,
+      "category_id": 4,
+      "bbox": [
+        106,
+        15,
+        13,
+        19
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "ambiguous"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.9277698993682861,
+      "probs": [
+        0.9277698993682861,
+        0.07223006337881088
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        121,
+        14,
+        32,
+        18
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.9590654969215393,
+      "probs": [
+        0.9590654969215393,
+        0.040934424847364426
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        155,
+        14,
+        80,
+        21
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.9884713292121887,
+      "probs": [
+        0.9884713292121887,
+        0.011528613977134228
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        235,
+        14,
+        31,
+        19
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.9827556014060974,
+      "probs": [
+        0.9827556014060974,
+        0.01724441908299923
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        264,
+        12,
+        36,
+        22
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.9056161046028137,
+      "probs": [
+        0.9056161046028137,
+        0.09438392519950867
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        297,
+        15,
+        44,
+        19
+      ],
+      "smoothed": true,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.8484604358673096,
+      "probs": [
+        0.8484604358673096,
+        0.151539608836174
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        339,
+        14,
+        40,
+        20
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.8531968593597412,
+      "probs": [
+        0.8531968593597412,
+        0.14680318534374237
+      ],
+      "gt_label": -1,
+      "category_id": 4,
+      "bbox": [
+        380,
+        20,
+        11,
+        15
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "ambiguous"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.8735392093658447,
+      "probs": [
+        0.8735392093658447,
+        0.12646086513996124
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        393,
+        14,
+        45,
+        19
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    }
+  ],
+  "F0_S26_W1.jpg": [
+    {
+      "pred_label": 1,
+      "confidence": 0.8256157636642456,
+      "probs": [
+        0.1743842512369156,
+        0.8256157636642456
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        10,
+        9,
+        34,
+        18
+      ],
+      "smoothed": false,
+      "pred_name": "Arabic",
+      "gt_name": "Arabic"
+    },
+    {
+      "pred_label": 1,
+      "confidence": 0.8256157636642456,
+      "probs": [
+        0.1743842512369156,
+        0.8256157636642456
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        46,
+        11,
+        25,
+        18
+      ],
+      "smoothed": false,
+      "pred_name": "Arabic",
+      "gt_name": "Arabic"
+    },
+    {
+      "pred_label": 1,
+      "confidence": 0.9799253940582275,
+      "probs": [
+        0.02007465250790119,
+        0.9799253940582275
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        70,
+        11,
+        32,
+        17
+      ],
+      "smoothed": true,
+      "pred_name": "Arabic",
+      "gt_name": "Arabic"
+    },
+    {
+      "pred_label": 1,
+      "confidence": 0.9982597231864929,
+      "probs": [
+        0.001740274135954678,
+        0.9982597231864929
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        104,
+        13,
+        23,
+        19
+      ],
+      "smoothed": false,
+      "pred_name": "Arabic",
+      "gt_name": "Arabic"
+    },
+    {
+      "pred_label": 1,
+      "confidence": 0.9982597231864929,
+      "probs": [
+        0.001740274135954678,
+        0.9982597231864929
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        126,
+        11,
+        48,
+        18
+      ],
+      "smoothed": false,
+      "pred_name": "Arabic",
+      "gt_name": "Arabic"
+    },
+    {
+      "pred_label": 1,
+      "confidence": 0.9637726545333862,
+      "probs": [
+        0.036227352917194366,
+        0.9637726545333862
+      ],
+      "gt_label": -1,
+      "category_id": 5,
+      "bbox": [
+        175,
+        13,
+        19,
+        17
+      ],
+      "smoothed": true,
+      "pred_name": "Arabic",
+      "gt_name": "ambiguous"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.7927101850509644,
+      "probs": [
+        0.7927101850509644,
+        0.20728984475135803
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        195,
+        10,
+        26,
+        21
+      ],
+      "smoothed": true,
+      "pred_name": "Kurdish",
+      "gt_name": "Arabic"
+    },
+    {
+      "pred_label": 1,
+      "confidence": 0.7669137716293335,
+      "probs": [
+        0.2330862283706665,
+        0.7669137716293335
+      ],
+      "gt_label": -1,
+      "category_id": 5,
+      "bbox": [
+        223,
+        13,
+        35,
+        19
+      ],
+      "smoothed": true,
+      "pred_name": "Arabic",
+      "gt_name": "ambiguous"
+    },
+    {
+      "pred_label": 1,
+      "confidence": 0.765282928943634,
+      "probs": [
+        0.23471707105636597,
+        0.765282928943634
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        258,
+        11,
+        27,
+        23
+      ],
+      "smoothed": false,
+      "pred_name": "Arabic",
+      "gt_name": "Arabic"
+    },
+    {
+      "pred_label": 1,
+      "confidence": 0.765282928943634,
+      "probs": [
+        0.23471707105636597,
+        0.765282928943634
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        282,
+        11,
+        29,
+        20
+      ],
+      "smoothed": false,
+      "pred_name": "Arabic",
+      "gt_name": "Arabic"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.7684892416000366,
+      "probs": [
+        0.7684892416000366,
+        0.23151075839996338
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        311,
+        9,
+        34,
+        24
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.8456074595451355,
+      "probs": [
+        0.8456074595451355,
+        0.1543925404548645
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        346,
+        12,
+        29,
+        18
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.8023311495780945,
+      "probs": [
+        0.8023311495780945,
+        0.19766883552074432
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        375,
+        4,
+        47,
+        26
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.9349905252456665,
+      "probs": [
+        0.9349905252456665,
+        0.06500943750143051
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        423,
+        12,
+        29,
+        20
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    }
+  ],
+  "F0_S26_W2 (2).jpg": [
+    {
+      "pred_label": 1,
+      "confidence": 0.9974367022514343,
+      "probs": [
+        0.0025633396580815315,
+        0.9974367022514343
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        11,
+        8,
+        40,
+        26
+      ],
+      "smoothed": false,
+      "pred_name": "Arabic",
+      "gt_name": "Arabic"
+    },
+    {
+      "pred_label": 1,
+      "confidence": 0.929959774017334,
+      "probs": [
+        0.07004024088382721,
+        0.929959774017334
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        50,
+        13,
+        34,
+        22
+      ],
+      "smoothed": true,
+      "pred_name": "Arabic",
+      "gt_name": "Arabic"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.8125559091567993,
+      "probs": [
+        0.8125559091567993,
+        0.1874440461397171
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        83,
+        13,
+        24,
+        22
+      ],
+      "smoothed": true,
+      "pred_name": "Kurdish",
+      "gt_name": "Arabic"
+    },
+    {
+      "pred_label": 1,
+      "confidence": 0.9160956144332886,
+      "probs": [
+        0.08390439301729202,
+        0.9160956144332886
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        105,
+        14,
+        20,
+        20
+      ],
+      "smoothed": true,
+      "pred_name": "Arabic",
+      "gt_name": "Arabic"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.7550452351570129,
+      "probs": [
+        0.7550452351570129,
+        0.24495476484298706
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        124,
+        10,
+        34,
+        22
+      ],
+      "smoothed": true,
+      "pred_name": "Kurdish",
+      "gt_name": "Arabic"
+    },
+    {
+      "pred_label": 1,
+      "confidence": 0.9093831777572632,
+      "probs": [
+        0.09061681479215622,
+        0.9093831777572632
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        157,
+        17,
+        22,
+        12
+      ],
+      "smoothed": true,
+      "pred_name": "Arabic",
+      "gt_name": "Arabic"
+    },
+    {
+      "pred_label": 1,
+      "confidence": 0.924260675907135,
+      "probs": [
+        0.075739286839962,
+        0.924260675907135
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        179,
+        10,
+        37,
+        22
+      ],
+      "smoothed": false,
+      "pred_name": "Arabic",
+      "gt_name": "Arabic"
+    },
+    {
+      "pred_label": 1,
+      "confidence": 0.924260675907135,
+      "probs": [
+        0.075739286839962,
+        0.924260675907135
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        216,
+        12,
+        36,
+        19
+      ],
+      "smoothed": false,
+      "pred_name": "Arabic",
+      "gt_name": "Arabic"
+    },
+    {
+      "pred_label": 1,
+      "confidence": 0.8279391527175903,
+      "probs": [
+        0.17206083238124847,
+        0.8279391527175903
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        250,
+        10,
+        21,
+        22
+      ],
+      "smoothed": true,
+      "pred_name": "Arabic",
+      "gt_name": "Arabic"
+    },
+    {
+      "pred_label": 1,
+      "confidence": 0.8280454874038696,
+      "probs": [
+        0.17195454239845276,
+        0.8280454874038696
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        270,
+        11,
+        23,
+        20
+      ],
+      "smoothed": false,
+      "pred_name": "Arabic",
+      "gt_name": "Arabic"
+    },
+    {
+      "pred_label": 1,
+      "confidence": 0.8280454874038696,
+      "probs": [
+        0.17195454239845276,
+        0.8280454874038696
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        294,
+        16,
+        34,
+        15
+      ],
+      "smoothed": false,
+      "pred_name": "Arabic",
+      "gt_name": "Arabic"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.8574476838111877,
+      "probs": [
+        0.8574476838111877,
+        0.14255230128765106
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        329,
+        13,
+        26,
+        23
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Arabic"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.8574476838111877,
+      "probs": [
+        0.8574476838111877,
+        0.14255230128765106
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        357,
+        14,
+        26,
+        17
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Arabic"
+    }
+  ],
+  "F0_S26_W2 (3).jpg": [
+    {
+      "pred_label": 0,
+      "confidence": 0.7827467918395996,
+      "probs": [
+        0.7827467918395996,
+        0.2172531932592392
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        6,
+        13,
+        65,
+        23
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.7665000557899475,
+      "probs": [
+        0.7665000557899475,
+        0.2334999293088913
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        70,
+        11,
+        46,
+        24
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.8254367709159851,
+      "probs": [
+        0.8254367709159851,
+        0.17456327378749847
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        115,
+        15,
+        48,
+        18
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.8254345059394836,
+      "probs": [
+        0.8254345059394836,
+        0.17456550896167755
+      ],
+      "gt_label": -1,
+      "category_id": 4,
+      "bbox": [
+        166,
+        15,
+        10,
+        13
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "ambiguous"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.8268190026283264,
+      "probs": [
+        0.8268190026283264,
+        0.1731809824705124
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        179,
+        6,
+        46,
+        27
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.9022750854492188,
+      "probs": [
+        0.9022750854492188,
+        0.09772487729787827
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        226,
+        15,
+        15,
+        13
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.8021829128265381,
+      "probs": [
+        0.8021829128265381,
+        0.19781708717346191
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        241,
+        13,
+        63,
+        24
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.8893756866455078,
+      "probs": [
+        0.8893756866455078,
+        0.11062431335449219
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        304,
+        14,
+        19,
+        21
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.8402360081672668,
+      "probs": [
+        0.8402360081672668,
+        0.15976399183273315
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        324,
+        15,
+        34,
+        17
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.9154242873191833,
+      "probs": [
+        0.9154242873191833,
+        0.08457577228546143
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        358,
+        15,
+        39,
+        20
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.874376118183136,
+      "probs": [
+        0.874376118183136,
+        0.1256239265203476
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        397,
+        16,
+        28,
+        16
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.8924291729927063,
+      "probs": [
+        0.8924291729927063,
+        0.10757080465555191
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        426,
+        15,
+        50,
+        18
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.876018762588501,
+      "probs": [
+        0.876018762588501,
+        0.12398126721382141
+      ],
+      "gt_label": -1,
+      "category_id": 4,
+      "bbox": [
+        478,
+        14,
+        9,
+        20
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "ambiguous"
+    }
+  ],
+  "F0_S26_W2.jpg": [
+    {
+      "pred_label": 1,
+      "confidence": 0.9994601607322693,
+      "probs": [
+        0.0005398580688051879,
+        0.9994601607322693
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        6,
+        10,
+        42,
+        19
+      ],
+      "smoothed": false,
+      "pred_name": "Arabic",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 1,
+      "confidence": 0.9994601607322693,
+      "probs": [
+        0.0005398580688051879,
+        0.9994601607322693
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        49,
+        11,
+        30,
+        18
+      ],
+      "smoothed": false,
+      "pred_name": "Arabic",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.5953507423400879,
+      "probs": [
+        0.5953507423400879,
+        0.4046492576599121
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        80,
+        13,
+        19,
+        15
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.5953507423400879,
+      "probs": [
+        0.5953507423400879,
+        0.4046492576599121
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        99,
+        13,
+        35,
+        18
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.7659800052642822,
+      "probs": [
+        0.7659800052642822,
+        0.23401996493339539
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        138,
+        13,
+        24,
+        24
+      ],
+      "smoothed": true,
+      "pred_name": "Kurdish",
+      "gt_name": "Arabic"
+    },
+    {
+      "pred_label": 1,
+      "confidence": 0.6102405190467834,
+      "probs": [
+        0.38975948095321655,
+        0.6102405190467834
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        162,
+        11,
+        48,
+        17
+      ],
+      "smoothed": true,
+      "pred_name": "Arabic",
+      "gt_name": "Arabic"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.920518159866333,
+      "probs": [
+        0.920518159866333,
+        0.07948179543018341
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        210,
+        13,
+        61,
+        20
+      ],
+      "smoothed": true,
+      "pred_name": "Kurdish",
+      "gt_name": "Arabic"
+    },
+    {
+      "pred_label": 1,
+      "confidence": 0.6633212566375732,
+      "probs": [
+        0.33667871356010437,
+        0.6633212566375732
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        271,
+        14,
+        14,
+        18
+      ],
+      "smoothed": true,
+      "pred_name": "Arabic",
+      "gt_name": "Arabic"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.8064026832580566,
+      "probs": [
+        0.8064026832580566,
+        0.19359725713729858
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        286,
+        11,
+        75,
+        21
+      ],
+      "smoothed": true,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 1,
+      "confidence": 0.8627745509147644,
+      "probs": [
+        0.13722547888755798,
+        0.8627745509147644
+      ],
+      "gt_label": -1,
+      "category_id": 4,
+      "bbox": [
+        364,
+        14,
+        11,
+        18
+      ],
+      "smoothed": true,
+      "pred_name": "Arabic",
+      "gt_name": "ambiguous"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.7716058492660522,
+      "probs": [
+        0.7716058492660522,
+        0.22839413583278656
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        375,
+        13,
+        46,
+        19
+      ],
+      "smoothed": true,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    }
+  ],
+  "F0_S26_W3 (2).jpg": [
+    {
+      "pred_label": 1,
+      "confidence": 0.9957483410835266,
+      "probs": [
+        0.004251664970070124,
+        0.9957483410835266
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        13,
+        12,
+        28,
+        20
+      ],
+      "smoothed": false,
+      "pred_name": "Arabic",
+      "gt_name": "Arabic"
+    },
+    {
+      "pred_label": 1,
+      "confidence": 0.9023066759109497,
+      "probs": [
+        0.09769336134195328,
+        0.9023066759109497
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        42,
+        14,
+        27,
+        19
+      ],
+      "smoothed": true,
+      "pred_name": "Arabic",
+      "gt_name": "Arabic"
+    },
+    {
+      "pred_label": 1,
+      "confidence": 0.8388826847076416,
+      "probs": [
+        0.1611173152923584,
+        0.8388826847076416
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        70,
+        16,
+        46,
+        17
+      ],
+      "smoothed": false,
+      "pred_name": "Arabic",
+      "gt_name": "Arabic"
+    },
+    {
+      "pred_label": 1,
+      "confidence": 0.8388826847076416,
+      "probs": [
+        0.1611173152923584,
+        0.8388826847076416
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        116,
+        13,
+        37,
+        20
+      ],
+      "smoothed": false,
+      "pred_name": "Arabic",
+      "gt_name": "Arabic"
+    },
+    {
+      "pred_label": 1,
+      "confidence": 0.8689004182815552,
+      "probs": [
+        0.13109958171844482,
+        0.8689004182815552
+      ],
+      "gt_label": -1,
+      "category_id": 5,
+      "bbox": [
+        153,
+        17,
+        17,
+        15
+      ],
+      "smoothed": true,
+      "pred_name": "Arabic",
+      "gt_name": "ambiguous"
+    }
+  ],
+  "F0_S26_W3 (3).jpg": [
+    {
+      "pred_label": 0,
+      "confidence": 0.9921842217445374,
+      "probs": [
+        0.9921842217445374,
+        0.007815809920430183
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        11,
+        12,
+        60,
+        20
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.9888179302215576,
+      "probs": [
+        0.9888179302215576,
+        0.011182118207216263
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        71,
+        15,
+        55,
+        20
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.9276694655418396,
+      "probs": [
+        0.9276694655418396,
+        0.0723305270075798
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        126,
+        14,
+        52,
+        18
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.8368387222290039,
+      "probs": [
+        0.8368387222290039,
+        0.16316135227680206
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        178,
+        16,
+        22,
+        14
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.7529315948486328,
+      "probs": [
+        0.7529315948486328,
+        0.247068390250206
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        200,
+        17,
+        29,
+        15
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.717657744884491,
+      "probs": [
+        0.717657744884491,
+        0.2823423147201538
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        228,
+        14,
+        15,
+        14
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.6892377734184265,
+      "probs": [
+        0.6892377734184265,
+        0.31076231598854065
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        243,
+        15,
+        20,
+        17
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.7425646185874939,
+      "probs": [
+        0.7425646185874939,
+        0.2574353814125061
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        263,
+        15,
+        26,
+        17
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.8369479179382324,
+      "probs": [
+        0.8369479179382324,
+        0.16305209696292877
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        290,
+        14,
+        25,
+        19
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.9566311240196228,
+      "probs": [
+        0.9566311240196228,
+        0.04336884617805481
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        316,
+        14,
+        66,
+        18
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.9846728444099426,
+      "probs": [
+        0.9846728444099426,
+        0.01532707829028368
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        383,
+        14,
+        27,
+        18
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.9875454902648926,
+      "probs": [
+        0.9875454902648926,
+        0.012454487383365631
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        410,
+        14,
+        30,
+        17
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.9447588324546814,
+      "probs": [
+        0.9447588324546814,
+        0.055241212248802185
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        440,
+        13,
+        66,
+        19
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.9299031496047974,
+      "probs": [
+        0.9299031496047974,
+        0.0700969323515892
+      ],
+      "gt_label": -1,
+      "category_id": 4,
+      "bbox": [
+        509,
+        16,
+        9,
+        18
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "ambiguous"
+    }
+  ],
+  "F0_S26_W3.jpg": [
+    {
+      "pred_label": 1,
+      "confidence": 0.9970048666000366,
+      "probs": [
+        0.0029951431788504124,
+        0.9970048666000366
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        7,
+        11,
+        50,
+        19
+      ],
+      "smoothed": false,
+      "pred_name": "Arabic",
+      "gt_name": "Arabic"
+    },
+    {
+      "pred_label": 1,
+      "confidence": 0.9961913228034973,
+      "probs": [
+        0.003808598965406418,
+        0.9961913228034973
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        57,
+        13,
+        13,
+        23
+      ],
+      "smoothed": false,
+      "pred_name": "Arabic",
+      "gt_name": "Arabic"
+    },
+    {
+      "pred_label": 1,
+      "confidence": 0.9954699873924255,
+      "probs": [
+        0.004530046600848436,
+        0.9954699873924255
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        72,
+        11,
+        52,
+        17
+      ],
+      "smoothed": false,
+      "pred_name": "Arabic",
+      "gt_name": "Arabic"
+    },
+    {
+      "pred_label": 1,
+      "confidence": 0.9954886436462402,
+      "probs": [
+        0.00451138149946928,
+        0.9954886436462402
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        125,
+        12,
+        23,
+        21
+      ],
+      "smoothed": false,
+      "pred_name": "Arabic",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 1,
+      "confidence": 0.8907840251922607,
+      "probs": [
+        0.10921601206064224,
+        0.8907840251922607
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        148,
+        13,
+        57,
+        17
+      ],
+      "smoothed": true,
+      "pred_name": "Arabic",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.8763072490692139,
+      "probs": [
+        0.8763072490692139,
+        0.12369273602962494
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        205,
+        12,
+        15,
+        15
+      ],
+      "smoothed": true,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 1,
+      "confidence": 0.8893412947654724,
+      "probs": [
+        0.11065871268510818,
+        0.8893412947654724
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        217,
+        11,
+        64,
+        25
+      ],
+      "smoothed": true,
+      "pred_name": "Arabic",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.7737239599227905,
+      "probs": [
+        0.7737239599227905,
+        0.2262759804725647
+      ],
+      "gt_label": -1,
+      "category_id": 3,
+      "bbox": [
+        284,
+        11,
+        36,
+        19
+      ],
+      "smoothed": true,
+      "pred_name": "Kurdish",
+      "gt_name": "ambiguous"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.696707546710968,
+      "probs": [
+        0.696707546710968,
+        0.303292453289032
+      ],
+      "gt_label": -1,
+      "category_id": 3,
+      "bbox": [
+        321,
+        12,
+        23,
+        18
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "ambiguous"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.6702234148979187,
+      "probs": [
+        0.6702234148979187,
+        0.3297766447067261
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        346,
+        9,
+        20,
+        20
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.7536563873291016,
+      "probs": [
+        0.7536563873291016,
+        0.24634359776973724
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        366,
+        11,
+        43,
+        20
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.8086068630218506,
+      "probs": [
+        0.8086068630218506,
+        0.19139312207698822
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        410,
+        11,
+        50,
+        20
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    }
+  ],
+  "F0_S26_W4 (2).jpg": [
+    {
+      "pred_label": 1,
+      "confidence": 0.8251696825027466,
+      "probs": [
+        0.17483025789260864,
+        0.8251696825027466
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        9,
+        9,
+        31,
+        28
+      ],
+      "smoothed": false,
+      "pred_name": "Arabic",
+      "gt_name": "Arabic"
+    },
+    {
+      "pred_label": 1,
+      "confidence": 0.7834460139274597,
+      "probs": [
+        0.2165539711713791,
+        0.7834460139274597
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        41,
+        12,
+        43,
+        22
+      ],
+      "smoothed": false,
+      "pred_name": "Arabic",
+      "gt_name": "Arabic"
+    },
+    {
+      "pred_label": 1,
+      "confidence": 0.6652279496192932,
+      "probs": [
+        0.3347720205783844,
+        0.6652279496192932
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        87,
+        13,
+        23,
+        19
+      ],
+      "smoothed": false,
+      "pred_name": "Arabic",
+      "gt_name": "Arabic"
+    },
+    {
+      "pred_label": 1,
+      "confidence": 0.776370108127594,
+      "probs": [
+        0.2236298769712448,
+        0.776370108127594
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        109,
+        14,
+        33,
+        23
+      ],
+      "smoothed": false,
+      "pred_name": "Arabic",
+      "gt_name": "Arabic"
+    },
+    {
+      "pred_label": 1,
+      "confidence": 0.8145558834075928,
+      "probs": [
+        0.18544414639472961,
+        0.8145558834075928
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        143,
+        13,
+        40,
+        18
+      ],
+      "smoothed": false,
+      "pred_name": "Arabic",
+      "gt_name": "Arabic"
+    },
+    {
+      "pred_label": 1,
+      "confidence": 0.9805624485015869,
+      "probs": [
+        0.01943746954202652,
+        0.9805624485015869
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        183,
+        11,
+        30,
+        25
+      ],
+      "smoothed": true,
+      "pred_name": "Arabic",
+      "gt_name": "Arabic"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.6523362398147583,
+      "probs": [
+        0.6523362398147583,
+        0.3476637601852417
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        214,
+        15,
+        36,
+        18
+      ],
+      "smoothed": true,
+      "pred_name": "Kurdish",
+      "gt_name": "Arabic"
+    },
+    {
+      "pred_label": 1,
+      "confidence": 0.7677428722381592,
+      "probs": [
+        0.23225709795951843,
+        0.7677428722381592
+      ],
+      "gt_label": -1,
+      "category_id": 5,
+      "bbox": [
+        249,
+        16,
+        22,
+        19
+      ],
+      "smoothed": true,
+      "pred_name": "Arabic",
+      "gt_name": "ambiguous"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.6910275816917419,
+      "probs": [
+        0.6910275816917419,
+        0.30897238850593567
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        269,
+        9,
+        20,
+        22
+      ],
+      "smoothed": true,
+      "pred_name": "Kurdish",
+      "gt_name": "Arabic"
+    }
+  ],
+  "F0_S26_W4 (3).jpg": [
+    {
+      "pred_label": 0,
+      "confidence": 0.9079582691192627,
+      "probs": [
+        0.9079582691192627,
+        0.0920417383313179
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        11,
+        10,
+        51,
+        25
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.936464786529541,
+      "probs": [
+        0.936464786529541,
+        0.06353522092103958
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        60,
+        13,
+        46,
+        21
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.8225346207618713,
+      "probs": [
+        0.8225346207618713,
+        0.17746537923812866
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        105,
+        14,
+        57,
+        21
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.7507018446922302,
+      "probs": [
+        0.7507018446922302,
+        0.24929820001125336
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        162,
+        14,
+        43,
+        22
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.7007421851158142,
+      "probs": [
+        0.7007421851158142,
+        0.2992578446865082
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        205,
+        16,
+        23,
+        19
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.8181132674217224,
+      "probs": [
+        0.8181132674217224,
+        0.18188680708408356
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        227,
+        15,
+        16,
+        17
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.8814623951911926,
+      "probs": [
+        0.8814623951911926,
+        0.11853763461112976
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        242,
+        14,
+        22,
+        20
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.9324689507484436,
+      "probs": [
+        0.9324689507484436,
+        0.06753099709749222
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        265,
+        16,
+        28,
+        18
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.9731561541557312,
+      "probs": [
+        0.9731561541557312,
+        0.026843875646591187
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        293,
+        16,
+        66,
+        19
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.99224454164505,
+      "probs": [
+        0.99224454164505,
+        0.007755436468869448
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        360,
+        11,
+        40,
+        23
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.9864403605461121,
+      "probs": [
+        0.9864403605461121,
+        0.013559631071984768
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        400,
+        13,
+        61,
+        19
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.8908237814903259,
+      "probs": [
+        0.8908237814903259,
+        0.10917622596025467
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        461,
+        14,
+        48,
+        18
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.8461074829101562,
+      "probs": [
+        0.8461074829101562,
+        0.15389254689216614
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        508,
+        15,
+        30,
+        22
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    }
+  ],
+  "F0_S26_W4.jpg": [
+    {
+      "pred_label": 1,
+      "confidence": 0.9918559789657593,
+      "probs": [
+        0.008144013583660126,
+        0.9918559789657593
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        11,
+        10,
+        36,
+        19
+      ],
+      "smoothed": false,
+      "pred_name": "Arabic",
+      "gt_name": "Arabic"
+    },
+    {
+      "pred_label": 1,
+      "confidence": 0.9936887621879578,
+      "probs": [
+        0.006311314646154642,
+        0.9936887621879578
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        47,
+        12,
+        31,
+        20
+      ],
+      "smoothed": false,
+      "pred_name": "Arabic",
+      "gt_name": "Arabic"
+    },
+    {
+      "pred_label": 1,
+      "confidence": 0.9490383267402649,
+      "probs": [
+        0.05096166208386421,
+        0.9490383267402649
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        77,
+        13,
+        33,
+        18
+      ],
+      "smoothed": false,
+      "pred_name": "Arabic",
+      "gt_name": "Arabic"
+    },
+    {
+      "pred_label": 1,
+      "confidence": 0.9296774864196777,
+      "probs": [
+        0.07032249867916107,
+        0.9296774864196777
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        109,
+        10,
+        32,
+        21
+      ],
+      "smoothed": false,
+      "pred_name": "Arabic",
+      "gt_name": "Arabic"
+    },
+    {
+      "pred_label": 1,
+      "confidence": 0.8871352672576904,
+      "probs": [
+        0.11286476254463196,
+        0.8871352672576904
+      ],
+      "gt_label": -1,
+      "category_id": 5,
+      "bbox": [
+        140,
+        17,
+        19,
+        11
+      ],
+      "smoothed": true,
+      "pred_name": "Arabic",
+      "gt_name": "ambiguous"
+    },
+    {
+      "pred_label": 1,
+      "confidence": 0.9257487654685974,
+      "probs": [
+        0.07425126433372498,
+        0.9257487654685974
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        160,
+        7,
+        23,
+        24
+      ],
+      "smoothed": false,
+      "pred_name": "Arabic",
+      "gt_name": "Arabic"
+    },
+    {
+      "pred_label": 1,
+      "confidence": 0.9257487654685974,
+      "probs": [
+        0.07425126433372498,
+        0.9257487654685974
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        185,
+        8,
+        33,
+        24
+      ],
+      "smoothed": false,
+      "pred_name": "Arabic",
+      "gt_name": "Arabic"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.5767873525619507,
+      "probs": [
+        0.5767873525619507,
+        0.4232126474380493
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        218,
+        12,
+        13,
+        20
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Arabic"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.7107149958610535,
+      "probs": [
+        0.7107149958610535,
+        0.2892850339412689
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        228,
+        9,
+        33,
+        22
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Arabic"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.8467671275138855,
+      "probs": [
+        0.8467671275138855,
+        0.1532328873872757
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        262,
+        11,
+        74,
+        16
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.9690667986869812,
+      "probs": [
+        0.9690667986869812,
+        0.030933240428566933
+      ],
+      "gt_label": -1,
+      "category_id": 4,
+      "bbox": [
+        334,
+        17,
+        10,
+        12
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "ambiguous"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.8350539803504944,
+      "probs": [
+        0.8350539803504944,
+        0.16494601964950562
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        346,
+        14,
+        51,
+        16
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.7844311594963074,
+      "probs": [
+        0.7844311594963074,
+        0.21556887030601501
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        400,
+        12,
+        55,
+        17
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    }
+  ],
+  "F0_S26_W5 (2).jpg": [
+    {
+      "pred_label": 1,
+      "confidence": 0.9913800954818726,
+      "probs": [
+        0.00861989427357912,
+        0.9913800954818726
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        10,
+        8,
+        42,
+        28
+      ],
+      "smoothed": false,
+      "pred_name": "Arabic",
+      "gt_name": "Arabic"
+    },
+    {
+      "pred_label": 1,
+      "confidence": 0.9926983714103699,
+      "probs": [
+        0.007301641162484884,
+        0.9926983714103699
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        52,
+        8,
+        35,
+        28
+      ],
+      "smoothed": false,
+      "pred_name": "Arabic",
+      "gt_name": "Arabic"
+    },
+    {
+      "pred_label": 1,
+      "confidence": 0.9926202297210693,
+      "probs": [
+        0.007379803340882063,
+        0.9926202297210693
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        85,
+        11,
+        40,
+        24
+      ],
+      "smoothed": false,
+      "pred_name": "Arabic",
+      "gt_name": "Arabic"
+    },
+    {
+      "pred_label": 1,
+      "confidence": 0.9968093037605286,
+      "probs": [
+        0.0031907365191727877,
+        0.9968093037605286
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        124,
+        13,
+        39,
+        20
+      ],
+      "smoothed": false,
+      "pred_name": "Arabic",
+      "gt_name": "Arabic"
+    },
+    {
+      "pred_label": 1,
+      "confidence": 0.9981977343559265,
+      "probs": [
+        0.0018023670418187976,
+        0.9981977343559265
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        162,
+        12,
+        28,
+        22
+      ],
+      "smoothed": false,
+      "pred_name": "Arabic",
+      "gt_name": "Arabic"
+    },
+    {
+      "pred_label": 1,
+      "confidence": 0.9987970590591431,
+      "probs": [
+        0.0012029078789055347,
+        0.9987970590591431
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        190,
+        13,
+        37,
+        22
+      ],
+      "smoothed": false,
+      "pred_name": "Arabic",
+      "gt_name": "Arabic"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.8212976455688477,
+      "probs": [
+        0.8212976455688477,
+        0.17870232462882996
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        227,
+        14,
+        22,
+        16
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Arabic"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.8212976455688477,
+      "probs": [
+        0.8212976455688477,
+        0.17870232462882996
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        251,
+        13,
+        26,
+        19
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Arabic"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.9097093343734741,
+      "probs": [
+        0.9097093343734741,
+        0.09029064327478409
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        278,
+        12,
+        24,
+        21
+      ],
+      "smoothed": true,
+      "pred_name": "Kurdish",
+      "gt_name": "Arabic"
+    }
+  ],
+  "F0_S26_W5 (3).jpg": [
+    {
+      "pred_label": 1,
+      "confidence": 0.5035865902900696,
+      "probs": [
+        0.4964134097099304,
+        0.5035865902900696
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        9,
+        17,
+        37,
+        20
+      ],
+      "smoothed": false,
+      "pred_name": "Arabic",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.9984992146492004,
+      "probs": [
+        0.9984992146492004,
+        0.0015007545007392764
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        44,
+        11,
+        64,
+        24
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.9272723197937012,
+      "probs": [
+        0.9272723197937012,
+        0.07272770255804062
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        107,
+        14,
+        24,
+        20
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.9250180721282959,
+      "probs": [
+        0.9250180721282959,
+        0.0749819353222847
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        130,
+        15,
+        30,
+        17
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.8200036883354187,
+      "probs": [
+        0.8200036883354187,
+        0.1799963116645813
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        160,
+        10,
+        36,
+        22
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.7990922927856445,
+      "probs": [
+        0.7990922927856445,
+        0.20090772211551666
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        196,
+        15,
+        42,
+        17
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.7562828063964844,
+      "probs": [
+        0.7562828063964844,
+        0.24371714890003204
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        236,
+        14,
+        55,
+        19
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.7749252319335938,
+      "probs": [
+        0.7749252319335938,
+        0.22507476806640625
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        290,
+        15,
+        45,
+        19
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.8234636187553406,
+      "probs": [
+        0.8234636187553406,
+        0.17653638124465942
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        335,
+        14,
+        29,
+        18
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.7900333404541016,
+      "probs": [
+        0.7900333404541016,
+        0.20996670424938202
+      ],
+      "gt_label": -1,
+      "category_id": 4,
+      "bbox": [
+        369,
+        16,
+        7,
+        18
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "ambiguous"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.8263089656829834,
+      "probs": [
+        0.8263089656829834,
+        0.17369107902050018
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        375,
+        13,
+        46,
+        20
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.7975489497184753,
+      "probs": [
+        0.7975489497184753,
+        0.20245110988616943
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        422,
+        16,
+        55,
+        16
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.8140801191329956,
+      "probs": [
+        0.8140801191329956,
+        0.18591992557048798
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        479,
+        13,
+        17,
+        18
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    }
+  ],
+  "F0_S26_W5.jpg": [
+    {
+      "pred_label": 0,
+      "confidence": 0.9958518743515015,
+      "probs": [
+        0.9958518743515015,
+        0.004148158244788647
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        7,
+        12,
+        44,
+        21
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.979081392288208,
+      "probs": [
+        0.979081392288208,
+        0.020918643102049828
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        51,
+        15,
+        54,
+        12
+      ],
+      "smoothed": true,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.981046736240387,
+      "probs": [
+        0.981046736240387,
+        0.01895327866077423
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        101,
+        12,
+        35,
+        22
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.981046736240387,
+      "probs": [
+        0.981046736240387,
+        0.01895327866077423
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        134,
+        13,
+        45,
+        17
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.9435932636260986,
+      "probs": [
+        0.9435932636260986,
+        0.056406766176223755
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        178,
+        13,
+        38,
+        21
+      ],
+      "smoothed": true,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 1,
+      "confidence": 0.736244261264801,
+      "probs": [
+        0.26375579833984375,
+        0.736244261264801
+      ],
+      "gt_label": -1,
+      "category_id": 3,
+      "bbox": [
+        217,
+        12,
+        35,
+        20
+      ],
+      "smoothed": true,
+      "pred_name": "Arabic",
+      "gt_name": "ambiguous"
+    },
+    {
+      "pred_label": 1,
+      "confidence": 0.9010170698165894,
+      "probs": [
+        0.09898291528224945,
+        0.9010170698165894
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        253,
+        11,
+        35,
+        18
+      ],
+      "smoothed": false,
+      "pred_name": "Arabic",
+      "gt_name": "Arabic"
+    },
+    {
+      "pred_label": 1,
+      "confidence": 0.9175307154655457,
+      "probs": [
+        0.08246926218271255,
+        0.9175307154655457
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        286,
+        12,
+        40,
+        16
+      ],
+      "smoothed": false,
+      "pred_name": "Arabic",
+      "gt_name": "Arabic"
+    },
+    {
+      "pred_label": 1,
+      "confidence": 0.9562276601791382,
+      "probs": [
+        0.04377228766679764,
+        0.9562276601791382
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        328,
+        5,
+        27,
+        28
+      ],
+      "smoothed": false,
+      "pred_name": "Arabic",
+      "gt_name": "Arabic"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.7396966814994812,
+      "probs": [
+        0.7396966814994812,
+        0.2603033185005188
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        357,
+        12,
+        35,
+        21
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Arabic"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.8239824771881104,
+      "probs": [
+        0.8239824771881104,
+        0.17601756751537323
+      ],
+      "gt_label": -1,
+      "category_id": 3,
+      "bbox": [
+        390,
+        11,
+        27,
+        21
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "ambiguous"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.9381105899810791,
+      "probs": [
+        0.9381105899810791,
+        0.061889439821243286
+      ],
+      "gt_label": -1,
+      "category_id": 3,
+      "bbox": [
+        417,
+        11,
+        22,
+        22
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "ambiguous"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.963829755783081,
+      "probs": [
+        0.963829755783081,
+        0.03617026284337044
+      ],
+      "gt_label": -1,
+      "category_id": 3,
+      "bbox": [
+        437,
+        12,
+        21,
+        16
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "ambiguous"
+    }
+  ],
+  "F0_S26_W6 (2).jpg": [
+    {
+      "pred_label": 1,
+      "confidence": 0.7549412250518799,
+      "probs": [
+        0.24505877494812012,
+        0.7549412250518799
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        6,
+        9,
+        46,
+        26
+      ],
+      "smoothed": false,
+      "pred_name": "Arabic",
+      "gt_name": "Arabic"
+    },
+    {
+      "pred_label": 1,
+      "confidence": 0.7549412250518799,
+      "probs": [
+        0.24505877494812012,
+        0.7549412250518799
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        54,
+        11,
+        33,
+        25
+      ],
+      "smoothed": false,
+      "pred_name": "Arabic",
+      "gt_name": "Arabic"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.6551393866539001,
+      "probs": [
+        0.6551393866539001,
+        0.34486061334609985
+      ],
+      "gt_label": -1,
+      "category_id": 5,
+      "bbox": [
+        88,
+        17,
+        22,
+        15
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "ambiguous"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.6551393866539001,
+      "probs": [
+        0.6551393866539001,
+        0.34486061334609985
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        108,
+        11,
+        34,
+        24
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Arabic"
+    },
+    {
+      "pred_label": 1,
+      "confidence": 0.8093708157539368,
+      "probs": [
+        0.19062919914722443,
+        0.8093708157539368
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        141,
+        13,
+        47,
+        18
+      ],
+      "smoothed": false,
+      "pred_name": "Arabic",
+      "gt_name": "Arabic"
+    },
+    {
+      "pred_label": 1,
+      "confidence": 0.8705326914787292,
+      "probs": [
+        0.12946735322475433,
+        0.8705326914787292
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        188,
+        15,
+        13,
+        19
+      ],
+      "smoothed": false,
+      "pred_name": "Arabic",
+      "gt_name": "Arabic"
+    },
+    {
+      "pred_label": 1,
+      "confidence": 0.870408296585083,
+      "probs": [
+        0.12959171831607819,
+        0.870408296585083
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        205,
+        10,
+        30,
+        23
+      ],
+      "smoothed": false,
+      "pred_name": "Arabic",
+      "gt_name": "Arabic"
+    },
+    {
+      "pred_label": 1,
+      "confidence": 0.9960647821426392,
+      "probs": [
+        0.003935180604457855,
+        0.9960647821426392
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        235,
+        14,
+        46,
+        19
+      ],
+      "smoothed": false,
+      "pred_name": "Arabic",
+      "gt_name": "Arabic"
+    },
+    {
+      "pred_label": 1,
+      "confidence": 0.9992733597755432,
+      "probs": [
+        0.00072669010842219,
+        0.9992733597755432
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        281,
+        16,
+        12,
+        18
+      ],
+      "smoothed": true,
+      "pred_name": "Arabic",
+      "gt_name": "Arabic"
+    }
+  ],
+  "F0_S26_W6 (3).jpg": [
+    {
+      "pred_label": 0,
+      "confidence": 0.8440561294555664,
+      "probs": [
+        0.8440561294555664,
+        0.15594382584095
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        11,
+        16,
+        41,
+        15
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.8713598251342773,
+      "probs": [
+        0.8713598251342773,
+        0.12864011526107788
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        52,
+        13,
+        31,
+        18
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.9380444884300232,
+      "probs": [
+        0.9380444884300232,
+        0.06195546314120293
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        83,
+        14,
+        34,
+        17
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.9380612373352051,
+      "probs": [
+        0.9380612373352051,
+        0.06193874776363373
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        116,
+        15,
+        21,
+        17
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.9626672267913818,
+      "probs": [
+        0.9626672267913818,
+        0.037332791835069656
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        138,
+        15,
+        29,
+        17
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.9998579025268555,
+      "probs": [
+        0.9998579025268555,
+        0.0001421519846189767
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        165,
+        15,
+        54,
+        19
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.9242808222770691,
+      "probs": [
+        0.9242808222770691,
+        0.0757192000746727
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        218,
+        15,
+        26,
+        17
+      ],
+      "smoothed": true,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.7028127908706665,
+      "probs": [
+        0.7028127908706665,
+        0.2971872091293335
+      ],
+      "gt_label": -1,
+      "category_id": 4,
+      "bbox": [
+        246,
+        14,
+        14,
+        15
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "ambiguous"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.7214694619178772,
+      "probs": [
+        0.7214694619178772,
+        0.278530478477478
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        260,
+        15,
+        26,
+        17
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.7373420596122742,
+      "probs": [
+        0.7373420596122742,
+        0.2626579701900482
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        287,
+        16,
+        24,
+        15
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.8850314021110535,
+      "probs": [
+        0.8850314021110535,
+        0.11496863514184952
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        311,
+        15,
+        17,
+        18
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.9481556415557861,
+      "probs": [
+        0.9481556415557861,
+        0.05184444412589073
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        328,
+        15,
+        64,
+        18
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    }
+  ],
+  "F0_S26_W6.jpg": [
+    {
+      "pred_label": 0,
+      "confidence": 0.9819924831390381,
+      "probs": [
+        0.9819924831390381,
+        0.018007557839155197
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        6,
+        10,
+        74,
+        21
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.9879822731018066,
+      "probs": [
+        0.9879822731018066,
+        0.012017752043902874
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        82,
+        13,
+        30,
+        17
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.9211940765380859,
+      "probs": [
+        0.9211940765380859,
+        0.07880591601133347
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        111,
+        13,
+        38,
+        19
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.8614566922187805,
+      "probs": [
+        0.8614566922187805,
+        0.1385432481765747
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        148,
+        13,
+        19,
+        17
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.8614540100097656,
+      "probs": [
+        0.8614540100097656,
+        0.1385459154844284
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        167,
+        14,
+        40,
+        16
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.8900771141052246,
+      "probs": [
+        0.8900771141052246,
+        0.1099228784441948
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        208,
+        10,
+        33,
+        22
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.9497571587562561,
+      "probs": [
+        0.9497571587562561,
+        0.05024275556206703
+      ],
+      "gt_label": -1,
+      "category_id": 4,
+      "bbox": [
+        238,
+        16,
+        15,
+        14
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "ambiguous"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.902468740940094,
+      "probs": [
+        0.902468740940094,
+        0.09753122180700302
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        253,
+        14,
+        47,
+        18
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.8881053924560547,
+      "probs": [
+        0.8881053924560547,
+        0.11189460009336472
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        300,
+        11,
+        26,
+        21
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.8501636981964111,
+      "probs": [
+        0.8501636981964111,
+        0.14983630180358887
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        327,
+        11,
+        24,
+        19
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.9077019095420837,
+      "probs": [
+        0.9077019095420837,
+        0.09229806065559387
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        353,
+        11,
+        30,
+        22
+      ],
+      "smoothed": true,
+      "pred_name": "Kurdish",
+      "gt_name": "Arabic"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.7699354887008667,
+      "probs": [
+        0.7699354887008667,
+        0.2300645262002945
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        383,
+        15,
+        14,
+        16
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Arabic"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.7699354887008667,
+      "probs": [
+        0.7699354887008667,
+        0.2300645262002945
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        394,
+        12,
+        24,
+        19
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Arabic"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.6338198781013489,
+      "probs": [
+        0.6338198781013489,
+        0.3661801218986511
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        417,
+        10,
+        42,
+        19
+      ],
+      "smoothed": true,
+      "pred_name": "Kurdish",
+      "gt_name": "Arabic"
+    },
+    {
+      "pred_label": 1,
+      "confidence": 0.9980325102806091,
+      "probs": [
+        0.00196747574955225,
+        0.9980325102806091
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        459,
+        14,
+        31,
+        18
+      ],
+      "smoothed": true,
+      "pred_name": "Arabic",
+      "gt_name": "Arabic"
+    }
+  ],
+  "F0_S26_W7 (2).jpg": [
+    {
+      "pred_label": 0,
+      "confidence": 0.6323299407958984,
+      "probs": [
+        0.6323299407958984,
+        0.3676699995994568
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        10,
+        12,
+        32,
+        24
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Arabic"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.7388805747032166,
+      "probs": [
+        0.7388805747032166,
+        0.26111939549446106
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        43,
+        10,
+        38,
+        25
+      ],
+      "smoothed": true,
+      "pred_name": "Kurdish",
+      "gt_name": "Arabic"
+    },
+    {
+      "pred_label": 1,
+      "confidence": 0.9488133192062378,
+      "probs": [
+        0.051186684519052505,
+        0.9488133192062378
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        82,
+        15,
+        38,
+        20
+      ],
+      "smoothed": true,
+      "pred_name": "Arabic",
+      "gt_name": "Arabic"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.9019004106521606,
+      "probs": [
+        0.9019004106521606,
+        0.09809953719377518
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        118,
+        15,
+        24,
+        22
+      ],
+      "smoothed": true,
+      "pred_name": "Kurdish",
+      "gt_name": "Arabic"
+    },
+    {
+      "pred_label": 1,
+      "confidence": 0.9334872961044312,
+      "probs": [
+        0.06651270389556885,
+        0.9334872961044312
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        144,
+        16,
+        19,
+        19
+      ],
+      "smoothed": true,
+      "pred_name": "Arabic",
+      "gt_name": "Arabic"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.7461235523223877,
+      "probs": [
+        0.7461235523223877,
+        0.2538764476776123
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        166,
+        7,
+        28,
+        29
+      ],
+      "smoothed": true,
+      "pred_name": "Kurdish",
+      "gt_name": "Arabic"
+    },
+    {
+      "pred_label": 1,
+      "confidence": 0.8390125036239624,
+      "probs": [
+        0.16098754107952118,
+        0.8390125036239624
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        195,
+        13,
+        21,
+        22
+      ],
+      "smoothed": true,
+      "pred_name": "Arabic",
+      "gt_name": "Arabic"
+    },
+    {
+      "pred_label": 1,
+      "confidence": 0.8779019713401794,
+      "probs": [
+        0.12209804356098175,
+        0.8779019713401794
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        218,
+        11,
+        23,
+        23
+      ],
+      "smoothed": false,
+      "pred_name": "Arabic",
+      "gt_name": "Arabic"
+    },
+    {
+      "pred_label": 1,
+      "confidence": 0.8779019713401794,
+      "probs": [
+        0.12209804356098175,
+        0.8779019713401794
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        241,
+        13,
+        40,
+        19
+      ],
+      "smoothed": false,
+      "pred_name": "Arabic",
+      "gt_name": "Arabic"
+    }
+  ],
+  "F0_S26_W7 (3).jpg": [
+    {
+      "pred_label": 0,
+      "confidence": 0.9706834554672241,
+      "probs": [
+        0.9706834554672241,
+        0.029316548258066177
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        10,
+        13,
+        18,
+        21
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.9095931053161621,
+      "probs": [
+        0.9095931053161621,
+        0.0904068723320961
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        27,
+        14,
+        44,
+        20
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.8885700106620789,
+      "probs": [
+        0.8885700106620789,
+        0.11142998188734055
+      ],
+      "gt_label": -1,
+      "category_id": 4,
+      "bbox": [
+        72,
+        13,
+        13,
+        19
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "ambiguous"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.8883170485496521,
+      "probs": [
+        0.8883170485496521,
+        0.1116829589009285
+      ],
+      "gt_label": -1,
+      "category_id": 4,
+      "bbox": [
+        84,
+        16,
+        12,
+        16
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "ambiguous"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.9559424519538879,
+      "probs": [
+        0.9559424519538879,
+        0.04405750706791878
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        96,
+        13,
+        53,
+        21
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.9386639595031738,
+      "probs": [
+        0.9386639595031738,
+        0.06133604422211647
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        149,
+        17,
+        45,
+        15
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.9083980321884155,
+      "probs": [
+        0.9083980321884155,
+        0.09160193800926208
+      ],
+      "gt_label": -1,
+      "category_id": 4,
+      "bbox": [
+        197,
+        16,
+        13,
+        13
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "ambiguous"
+    },
+    {
+      "pred_label": 1,
+      "confidence": 0.7339096069335938,
+      "probs": [
+        0.266090452671051,
+        0.7339096069335938
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        212,
+        13,
+        40,
+        17
+      ],
+      "smoothed": false,
+      "pred_name": "Arabic",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 1,
+      "confidence": 0.7339096069335938,
+      "probs": [
+        0.266090452671051,
+        0.7339096069335938
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        252,
+        11,
+        71,
+        20
+      ],
+      "smoothed": false,
+      "pred_name": "Arabic",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.8760659098625183,
+      "probs": [
+        0.8760659098625183,
+        0.1239340752363205
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        323,
+        17,
+        22,
+        14
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.8949758410453796,
+      "probs": [
+        0.8949758410453796,
+        0.10502412170171738
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        346,
+        11,
+        56,
+        22
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.9481642842292786,
+      "probs": [
+        0.9481642842292786,
+        0.05183568224310875
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        403,
+        14,
+        45,
+        20
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.9656985998153687,
+      "probs": [
+        0.9656985998153687,
+        0.034301429986953735
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        451,
+        12,
+        54,
+        24
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    }
+  ],
+  "F0_S26_W7.jpg": [
+    {
+      "pred_label": 1,
+      "confidence": 0.5198081731796265,
+      "probs": [
+        0.48019179701805115,
+        0.5198081731796265
+      ],
+      "gt_label": -1,
+      "category_id": 3,
+      "bbox": [
+        8,
+        13,
+        33,
+        19
+      ],
+      "smoothed": false,
+      "pred_name": "Arabic",
+      "gt_name": "ambiguous"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.7471758127212524,
+      "probs": [
+        0.7471758127212524,
+        0.2528241276741028
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        41,
+        12,
+        35,
+        20
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Arabic"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.7471758127212524,
+      "probs": [
+        0.7471758127212524,
+        0.2528241276741028
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        76,
+        12,
+        22,
+        20
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Arabic"
+    },
+    {
+      "pred_label": 1,
+      "confidence": 0.5692121982574463,
+      "probs": [
+        0.4307878613471985,
+        0.5692121982574463
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        99,
+        12,
+        44,
+        18
+      ],
+      "smoothed": false,
+      "pred_name": "Arabic",
+      "gt_name": "Arabic"
+    },
+    {
+      "pred_label": 1,
+      "confidence": 0.7123122215270996,
+      "probs": [
+        0.2876878082752228,
+        0.7123122215270996
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        144,
+        13,
+        37,
+        17
+      ],
+      "smoothed": false,
+      "pred_name": "Arabic",
+      "gt_name": "Arabic"
+    },
+    {
+      "pred_label": 1,
+      "confidence": 0.8448119163513184,
+      "probs": [
+        0.15518812835216522,
+        0.8448119163513184
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        181,
+        13,
+        30,
+        19
+      ],
+      "smoothed": false,
+      "pred_name": "Arabic",
+      "gt_name": "Arabic"
+    },
+    {
+      "pred_label": 1,
+      "confidence": 0.9985694885253906,
+      "probs": [
+        0.0014305136865004897,
+        0.9985694885253906
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        210,
+        13,
+        23,
+        14
+      ],
+      "smoothed": false,
+      "pred_name": "Arabic",
+      "gt_name": "Arabic"
+    },
+    {
+      "pred_label": 1,
+      "confidence": 0.998826801776886,
+      "probs": [
+        0.0011732409475371242,
+        0.998826801776886
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        233,
+        12,
+        36,
+        18
+      ],
+      "smoothed": true,
+      "pred_name": "Arabic",
+      "gt_name": "Arabic"
+    },
+    {
+      "pred_label": 1,
+      "confidence": 0.9993182420730591,
+      "probs": [
+        0.0006818040856160223,
+        0.9993182420730591
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        270,
+        11,
+        34,
+        19
+      ],
+      "smoothed": false,
+      "pred_name": "Arabic",
+      "gt_name": "Arabic"
+    },
+    {
+      "pred_label": 1,
+      "confidence": 0.9993182420730591,
+      "probs": [
+        0.0006818040856160223,
+        0.9993182420730591
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        304,
+        10,
+        43,
+        23
+      ],
+      "smoothed": false,
+      "pred_name": "Arabic",
+      "gt_name": "Arabic"
+    },
+    {
+      "pred_label": 1,
+      "confidence": 0.9755801558494568,
+      "probs": [
+        0.024419870227575302,
+        0.9755801558494568
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        347,
+        10,
+        43,
+        24
+      ],
+      "smoothed": true,
+      "pred_name": "Arabic",
+      "gt_name": "Arabic"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.6942362785339355,
+      "probs": [
+        0.6942362785339355,
+        0.30576378107070923
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        389,
+        11,
+        33,
+        20
+      ],
+      "smoothed": true,
+      "pred_name": "Kurdish",
+      "gt_name": "Arabic"
+    }
+  ],
+  "F0_S26_W8 (2).jpg": [
+    {
+      "pred_label": 1,
+      "confidence": 0.8976918458938599,
+      "probs": [
+        0.10230816900730133,
+        0.8976918458938599
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        8,
+        12,
+        49,
+        20
+      ],
+      "smoothed": false,
+      "pred_name": "Arabic",
+      "gt_name": "Arabic"
+    },
+    {
+      "pred_label": 1,
+      "confidence": 0.8976918458938599,
+      "probs": [
+        0.10230816900730133,
+        0.8976918458938599
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        56,
+        13,
+        17,
+        19
+      ],
+      "smoothed": false,
+      "pred_name": "Arabic",
+      "gt_name": "Arabic"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.7761898636817932,
+      "probs": [
+        0.7761898636817932,
+        0.2238101363182068
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        73,
+        11,
+        42,
+        22
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Arabic"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.7761898636817932,
+      "probs": [
+        0.7761898636817932,
+        0.2238101363182068
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        115,
+        10,
+        33,
+        21
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Arabic"
+    },
+    {
+      "pred_label": 1,
+      "confidence": 0.9989722371101379,
+      "probs": [
+        0.0010277797700837255,
+        0.9989722371101379
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        149,
+        12,
+        21,
+        21
+      ],
+      "smoothed": false,
+      "pred_name": "Arabic",
+      "gt_name": "Arabic"
+    },
+    {
+      "pred_label": 1,
+      "confidence": 0.9791097044944763,
+      "probs": [
+        0.02089034952223301,
+        0.9791097044944763
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        173,
+        10,
+        43,
+        22
+      ],
+      "smoothed": false,
+      "pred_name": "Arabic",
+      "gt_name": "Arabic"
+    },
+    {
+      "pred_label": 1,
+      "confidence": 0.968869686126709,
+      "probs": [
+        0.031130313873291016,
+        0.968869686126709
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        215,
+        14,
+        36,
+        20
+      ],
+      "smoothed": false,
+      "pred_name": "Arabic",
+      "gt_name": "Arabic"
+    }
+  ],
+  "F0_S52_W14.jpg": [
+    {
+      "pred_label": 1,
+      "confidence": 0.9994484186172485,
+      "probs": [
+        0.0005515546072274446,
+        0.9994484186172485
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        16,
+        15,
+        113,
+        41
+      ],
+      "smoothed": false,
+      "pred_name": "Arabic",
+      "gt_name": "Arabic"
+    },
+    {
+      "pred_label": 1,
+      "confidence": 0.9995625019073486,
+      "probs": [
+        0.0004375168355181813,
+        0.9995625019073486
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        133,
+        19,
+        62,
+        36
+      ],
+      "smoothed": false,
+      "pred_name": "Arabic",
+      "gt_name": "Arabic"
+    },
+    {
+      "pred_label": 1,
+      "confidence": 0.9523479342460632,
+      "probs": [
+        0.047652170062065125,
+        0.9523479342460632
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        196,
+        19,
+        80,
+        35
+      ],
+      "smoothed": false,
+      "pred_name": "Arabic",
+      "gt_name": "Arabic"
+    },
+    {
+      "pred_label": 1,
+      "confidence": 0.9289475679397583,
+      "probs": [
+        0.0710524469614029,
+        0.9289475679397583
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        276,
+        11,
+        59,
+        52
+      ],
+      "smoothed": false,
+      "pred_name": "Arabic",
+      "gt_name": "Arabic"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.8093428611755371,
+      "probs": [
+        0.8093428611755371,
+        0.19065718352794647
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        337,
+        14,
+        39,
+        40
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Arabic"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.7967801690101624,
+      "probs": [
+        0.7967801690101624,
+        0.20321984589099884
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        391,
+        16,
+        93,
+        41
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.8858069181442261,
+      "probs": [
+        0.8858069181442261,
+        0.11419311910867691
+      ],
+      "gt_label": -1,
+      "category_id": 4,
+      "bbox": [
+        487,
+        17,
+        28,
+        34
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "ambiguous"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.8858019113540649,
+      "probs": [
+        0.8858019113540649,
+        0.11419804394245148
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        520,
+        12,
+        87,
+        52
+      ],
+      "smoothed": true,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.8547659516334534,
+      "probs": [
+        0.8547659516334534,
+        0.14523401856422424
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        607,
+        9,
+        75,
+        51
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.8967704772949219,
+      "probs": [
+        0.8967704772949219,
+        0.10322950035333633
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        682,
+        11,
+        114,
+        48
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.8451811075210571,
+      "probs": [
+        0.8451811075210571,
+        0.1548188030719757
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        804,
+        15,
+        148,
+        45
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    }
+  ],
+  "F0_S53_W5.jpg": [
+    {
+      "pred_label": 0,
+      "confidence": 0.9999665021896362,
+      "probs": [
+        0.9999665021896362,
+        3.352190105943009e-05
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        5,
+        12,
+        97,
+        44
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.9023693799972534,
+      "probs": [
+        0.9023693799972534,
+        0.09763069450855255
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        105,
+        15,
+        115,
+        36
+      ],
+      "smoothed": true,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.9023685455322266,
+      "probs": [
+        0.9023685455322266,
+        0.09763149917125702
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        218,
+        16,
+        70,
+        38
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.9023685455322266,
+      "probs": [
+        0.9023685455322266,
+        0.09763149917125702
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        288,
+        14,
+        97,
+        44
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.9735138416290283,
+      "probs": [
+        0.9735138416290283,
+        0.026486163958907127
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        386,
+        20,
+        82,
+        32
+      ],
+      "smoothed": true,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 1,
+      "confidence": 0.9622836112976074,
+      "probs": [
+        0.03771638497710228,
+        0.9622836112976074
+      ],
+      "gt_label": -1,
+      "category_id": 3,
+      "bbox": [
+        472,
+        11,
+        71,
+        41
+      ],
+      "smoothed": true,
+      "pred_name": "Arabic",
+      "gt_name": "ambiguous"
+    },
+    {
+      "pred_label": 1,
+      "confidence": 0.9922924041748047,
+      "probs": [
+        0.007707617245614529,
+        0.9922924041748047
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        545,
+        16,
+        75,
+        36
+      ],
+      "smoothed": false,
+      "pred_name": "Arabic",
+      "gt_name": "Arabic"
+    },
+    {
+      "pred_label": 1,
+      "confidence": 0.994687557220459,
+      "probs": [
+        0.005312446039170027,
+        0.994687557220459
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        620,
+        11,
+        88,
+        36
+      ],
+      "smoothed": false,
+      "pred_name": "Arabic",
+      "gt_name": "Arabic"
+    },
+    {
+      "pred_label": 1,
+      "confidence": 0.8621792793273926,
+      "probs": [
+        0.137820765376091,
+        0.8621792793273926
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        706,
+        5,
+        65,
+        44
+      ],
+      "smoothed": false,
+      "pred_name": "Arabic",
+      "gt_name": "Arabic"
+    },
+    {
+      "pred_label": 1,
+      "confidence": 0.7994464635848999,
+      "probs": [
+        0.2005535215139389,
+        0.7994464635848999
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        771,
+        3,
+        71,
+        49
+      ],
+      "smoothed": false,
+      "pred_name": "Arabic",
+      "gt_name": "Arabic"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.6282105445861816,
+      "probs": [
+        0.6282105445861816,
+        0.37178945541381836
+      ],
+      "gt_label": -1,
+      "category_id": 3,
+      "bbox": [
+        843,
+        9,
+        69,
+        46
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "ambiguous"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.7415801882743835,
+      "probs": [
+        0.7415801882743835,
+        0.25841981172561646
+      ],
+      "gt_label": -1,
+      "category_id": 3,
+      "bbox": [
+        914,
+        16,
+        43,
+        37
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "ambiguous"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.8498505353927612,
+      "probs": [
+        0.8498505353927612,
+        0.15014946460723877
+      ],
+      "gt_label": -1,
+      "category_id": 3,
+      "bbox": [
+        958,
+        14,
+        40,
+        35
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "ambiguous"
+    }
+  ],
+  "F0_S60_W8.jpg": [
+    {
+      "pred_label": 0,
+      "confidence": 0.8950612545013428,
+      "probs": [
+        0.8950612545013428,
+        0.10493871569633484
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        9,
+        6,
+        176,
+        56
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.8950612545013428,
+      "probs": [
+        0.8950612545013428,
+        0.10493871569633484
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        183,
+        21,
+        60,
+        44
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.8535903096199036,
+      "probs": [
+        0.8535903096199036,
+        0.14640963077545166
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        248,
+        9,
+        114,
+        51
+      ],
+      "smoothed": true,
+      "pred_name": "Kurdish",
+      "gt_name": "Arabic"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.8380141854286194,
+      "probs": [
+        0.8380141854286194,
+        0.16198575496673584
+      ],
+      "gt_label": -1,
+      "category_id": 5,
+      "bbox": [
+        364,
+        18,
+        50,
+        40
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "ambiguous"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.8380141854286194,
+      "probs": [
+        0.8380141854286194,
+        0.16198575496673584
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        414,
+        24,
+        47,
+        33
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Arabic"
+    },
+    {
+      "pred_label": 1,
+      "confidence": 0.9843631982803345,
+      "probs": [
+        0.015636755153536797,
+        0.9843631982803345
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        466,
+        25,
+        76,
+        33
+      ],
+      "smoothed": false,
+      "pred_name": "Arabic",
+      "gt_name": "Arabic"
+    },
+    {
+      "pred_label": 1,
+      "confidence": 0.9894897937774658,
+      "probs": [
+        0.010510198771953583,
+        0.9894897937774658
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        546,
+        12,
+        77,
+        44
+      ],
+      "smoothed": false,
+      "pred_name": "Arabic",
+      "gt_name": "Arabic"
+    },
+    {
+      "pred_label": 1,
+      "confidence": 0.9977170825004578,
+      "probs": [
+        0.0022829400841146708,
+        0.9977170825004578
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        624,
+        13,
+        82,
+        48
+      ],
+      "smoothed": false,
+      "pred_name": "Arabic",
+      "gt_name": "Arabic"
+    },
+    {
+      "pred_label": 1,
+      "confidence": 0.9301899075508118,
+      "probs": [
+        0.06981013715267181,
+        0.9301899075508118
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        713,
+        15,
+        59,
+        44
+      ],
+      "smoothed": false,
+      "pred_name": "Arabic",
+      "gt_name": "Arabic"
+    },
+    {
+      "pred_label": 1,
+      "confidence": 0.895413339138031,
+      "probs": [
+        0.104586660861969,
+        0.895413339138031
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        776,
+        16,
+        95,
+        37
+      ],
+      "smoothed": false,
+      "pred_name": "Arabic",
+      "gt_name": "Arabic"
+    }
+  ],
+  "F0_S60_W9.jpg": [
+    {
+      "pred_label": 1,
+      "confidence": 0.8462055921554565,
+      "probs": [
+        0.15379434823989868,
+        0.8462055921554565
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        7,
+        7,
+        74,
+        56
+      ],
+      "smoothed": false,
+      "pred_name": "Arabic",
+      "gt_name": "Arabic"
+    },
+    {
+      "pred_label": 1,
+      "confidence": 0.8964235186576843,
+      "probs": [
+        0.1035764217376709,
+        0.8964235186576843
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        84,
+        16,
+        102,
+        41
+      ],
+      "smoothed": false,
+      "pred_name": "Arabic",
+      "gt_name": "Arabic"
+    },
+    {
+      "pred_label": 1,
+      "confidence": 0.8324742913246155,
+      "probs": [
+        0.16752564907073975,
+        0.8324742913246155
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        186,
+        13,
+        32,
+        50
+      ],
+      "smoothed": false,
+      "pred_name": "Arabic",
+      "gt_name": "Arabic"
+    },
+    {
+      "pred_label": 1,
+      "confidence": 0.9018183946609497,
+      "probs": [
+        0.09818166494369507,
+        0.9018183946609497
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        216,
+        14,
+        77,
+        53
+      ],
+      "smoothed": false,
+      "pred_name": "Arabic",
+      "gt_name": "Arabic"
+    },
+    {
+      "pred_label": 1,
+      "confidence": 0.8792000412940979,
+      "probs": [
+        0.1207999661564827,
+        0.8792000412940979
+      ],
+      "gt_label": -1,
+      "category_id": 5,
+      "bbox": [
+        292,
+        23,
+        42,
+        38
+      ],
+      "smoothed": true,
+      "pred_name": "Arabic",
+      "gt_name": "ambiguous"
+    },
+    {
+      "pred_label": 1,
+      "confidence": 0.8237677812576294,
+      "probs": [
+        0.17623218894004822,
+        0.8237677812576294
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        334,
+        14,
+        64,
+        43
+      ],
+      "smoothed": false,
+      "pred_name": "Arabic",
+      "gt_name": "Arabic"
+    },
+    {
+      "pred_label": 1,
+      "confidence": 0.8444290161132812,
+      "probs": [
+        0.15557096898555756,
+        0.8444290161132812
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        395,
+        20,
+        79,
+        44
+      ],
+      "smoothed": false,
+      "pred_name": "Arabic",
+      "gt_name": "Arabic"
+    },
+    {
+      "pred_label": 1,
+      "confidence": 0.7908321619033813,
+      "probs": [
+        0.20916785299777985,
+        0.7908321619033813
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        473,
+        22,
+        52,
+        36
+      ],
+      "smoothed": false,
+      "pred_name": "Arabic",
+      "gt_name": "Arabic"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.8923012018203735,
+      "probs": [
+        0.8923012018203735,
+        0.10769876092672348
+      ],
+      "gt_label": -1,
+      "category_id": 5,
+      "bbox": [
+        524,
+        23,
+        43,
+        33
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "ambiguous"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.928175687789917,
+      "probs": [
+        0.928175687789917,
+        0.07182426750659943
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        574,
+        14,
+        166,
+        47
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.9999492168426514,
+      "probs": [
+        0.9999492168426514,
+        5.078597678220831e-05
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        744,
+        23,
+        70,
+        38
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.9336932301521301,
+      "probs": [
+        0.9336932301521301,
+        0.06630676239728928
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        827,
+        10,
+        108,
+        46
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.9337069988250732,
+      "probs": [
+        0.9337069988250732,
+        0.06629303097724915
+      ],
+      "gt_label": -1,
+      "category_id": 4,
+      "bbox": [
+        936,
+        21,
+        47,
+        40
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "ambiguous"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.9005776643753052,
+      "probs": [
+        0.9005776643753052,
+        0.09942229837179184
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        976,
+        10,
+        188,
+        50
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    }
+  ],
+  "F0_S60_W10.jpg": [
+    {
+      "pred_label": 0,
+      "confidence": 0.8024835586547852,
+      "probs": [
+        0.8024835586547852,
+        0.19751641154289246
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        11,
+        5,
+        155,
+        61
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Arabic"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.8683111071586609,
+      "probs": [
+        0.8683111071586609,
+        0.1316889375448227
+      ],
+      "gt_label": -1,
+      "category_id": 4,
+      "bbox": [
+        168,
+        19,
+        106,
+        46
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "ambiguous"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.9305256009101868,
+      "probs": [
+        0.9305256009101868,
+        0.06947438418865204
+      ],
+      "gt_label": -1,
+      "category_id": 4,
+      "bbox": [
+        279,
+        13,
+        169,
+        52
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "ambiguous"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.9293186664581299,
+      "probs": [
+        0.9293186664581299,
+        0.07068134099245071
+      ],
+      "gt_label": -1,
+      "category_id": 4,
+      "bbox": [
+        451,
+        14,
+        76,
+        50
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "ambiguous"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.9293190836906433,
+      "probs": [
+        0.9293190836906433,
+        0.07068096101284027
+      ],
+      "gt_label": -1,
+      "category_id": 4,
+      "bbox": [
+        527,
+        17,
+        68,
+        42
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "ambiguous"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.9981576204299927,
+      "probs": [
+        0.9981576204299927,
+        0.0018423802684992552
+      ],
+      "gt_label": -1,
+      "category_id": 4,
+      "bbox": [
+        594,
+        5,
+        146,
+        54
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "ambiguous"
+    },
+    {
+      "pred_label": 1,
+      "confidence": 0.7769572734832764,
+      "probs": [
+        0.22304271161556244,
+        0.7769572734832764
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        741,
+        17,
+        90,
+        40
+      ],
+      "smoothed": false,
+      "pred_name": "Arabic",
+      "gt_name": "Arabic"
+    },
+    {
+      "pred_label": 1,
+      "confidence": 0.8512143492698669,
+      "probs": [
+        0.14878569543361664,
+        0.8512143492698669
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        837,
+        11,
+        110,
+        52
+      ],
+      "smoothed": false,
+      "pred_name": "Arabic",
+      "gt_name": "Arabic"
+    },
+    {
+      "pred_label": 1,
+      "confidence": 0.9545734524726868,
+      "probs": [
+        0.04542655125260353,
+        0.9545734524726868
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        947,
+        15,
+        43,
+        49
+      ],
+      "smoothed": false,
+      "pred_name": "Arabic",
+      "gt_name": "Arabic"
+    },
+    {
+      "pred_label": 1,
+      "confidence": 0.9320049285888672,
+      "probs": [
+        0.0679951012134552,
+        0.9320049285888672
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        986,
+        7,
+        70,
+        55
+      ],
+      "smoothed": false,
+      "pred_name": "Arabic",
+      "gt_name": "Arabic"
+    },
+    {
+      "pred_label": 1,
+      "confidence": 0.8642814755439758,
+      "probs": [
+        0.13571853935718536,
+        0.8642814755439758
+      ],
+      "gt_label": -1,
+      "category_id": 5,
+      "bbox": [
+        1059,
+        17,
+        49,
+        42
+      ],
+      "smoothed": true,
+      "pred_name": "Arabic",
+      "gt_name": "ambiguous"
+    }
+  ],
+  "F0_S63_W0.jpg": [
+    {
+      "pred_label": 1,
+      "confidence": 0.932836651802063,
+      "probs": [
+        0.06716332584619522,
+        0.932836651802063
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        9,
+        5,
+        93,
+        58
+      ],
+      "smoothed": false,
+      "pred_name": "Arabic",
+      "gt_name": "Arabic"
+    },
+    {
+      "pred_label": 1,
+      "confidence": 0.9548003673553467,
+      "probs": [
+        0.045199617743492126,
+        0.9548003673553467
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        109,
+        9,
+        98,
+        51
+      ],
+      "smoothed": false,
+      "pred_name": "Arabic",
+      "gt_name": "Arabic"
+    },
+    {
+      "pred_label": 1,
+      "confidence": 0.9991765022277832,
+      "probs": [
+        0.0008234425913542509,
+        0.9991765022277832
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        202,
+        16,
+        44,
+        59
+      ],
+      "smoothed": false,
+      "pred_name": "Arabic",
+      "gt_name": "Arabic"
+    },
+    {
+      "pred_label": 1,
+      "confidence": 0.99925696849823,
+      "probs": [
+        0.000743009673897177,
+        0.99925696849823
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        247,
+        12,
+        92,
+        54
+      ],
+      "smoothed": false,
+      "pred_name": "Arabic",
+      "gt_name": "Arabic"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.9976417422294617,
+      "probs": [
+        0.9976417422294617,
+        0.0023582694120705128
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        343,
+        16,
+        184,
+        47
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.8633163571357727,
+      "probs": [
+        0.8633163571357727,
+        0.1366836577653885
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        528,
+        10,
+        174,
+        61
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.8298818469047546,
+      "probs": [
+        0.8298818469047546,
+        0.17011809349060059
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        706,
+        19,
+        47,
+        46
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.7448381185531616,
+      "probs": [
+        0.7448381185531616,
+        0.255161851644516
+      ],
+      "gt_label": -1,
+      "category_id": 4,
+      "bbox": [
+        755,
+        14,
+        46,
+        58
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "ambiguous"
+    },
+    {
+      "pred_label": 1,
+      "confidence": 0.9989984035491943,
+      "probs": [
+        0.0010016305604949594,
+        0.9989984035491943
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        807,
+        15,
+        33,
+        58
+      ],
+      "smoothed": false,
+      "pred_name": "Arabic",
+      "gt_name": "Arabic"
+    },
+    {
+      "pred_label": 1,
+      "confidence": 0.9992263913154602,
+      "probs": [
+        0.0007735590916126966,
+        0.9992263913154602
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        840,
+        23,
+        90,
+        45
+      ],
+      "smoothed": false,
+      "pred_name": "Arabic",
+      "gt_name": "Arabic"
+    },
+    {
+      "pred_label": 1,
+      "confidence": 0.8985279202461243,
+      "probs": [
+        0.10147205740213394,
+        0.8985279202461243
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        928,
+        24,
+        99,
+        38
+      ],
+      "smoothed": false,
+      "pred_name": "Arabic",
+      "gt_name": "Arabic"
+    },
+    {
+      "pred_label": 1,
+      "confidence": 0.8985781073570251,
+      "probs": [
+        0.10142191499471664,
+        0.8985781073570251
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        1028,
+        21,
+        72,
+        40
+      ],
+      "smoothed": false,
+      "pred_name": "Arabic",
+      "gt_name": "Arabic"
+    },
+    {
+      "pred_label": 1,
+      "confidence": 0.8480257987976074,
+      "probs": [
+        0.151974156498909,
+        0.8480257987976074
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        1098,
+        14,
+        121,
+        45
+      ],
+      "smoothed": false,
+      "pred_name": "Arabic",
+      "gt_name": "Arabic"
+    }
+  ],
+  "F0_S63_W1.jpg": [
+    {
+      "pred_label": 1,
+      "confidence": 0.5900518298149109,
+      "probs": [
+        0.4099481701850891,
+        0.5900518298149109
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        5,
+        5,
+        102,
+        71
+      ],
+      "smoothed": false,
+      "pred_name": "Arabic",
+      "gt_name": "Arabic"
+    },
+    {
+      "pred_label": 1,
+      "confidence": 0.5859102010726929,
+      "probs": [
+        0.41408973932266235,
+        0.5859102010726929
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        111,
+        8,
+        65,
+        58
+      ],
+      "smoothed": true,
+      "pred_name": "Arabic",
+      "gt_name": "Arabic"
+    },
+    {
+      "pred_label": 1,
+      "confidence": 0.7907968759536743,
+      "probs": [
+        0.2092031091451645,
+        0.7907968759536743
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        181,
+        11,
+        74,
+        62
+      ],
+      "smoothed": false,
+      "pred_name": "Arabic",
+      "gt_name": "Arabic"
+    },
+    {
+      "pred_label": 1,
+      "confidence": 0.860471248626709,
+      "probs": [
+        0.13952870666980743,
+        0.860471248626709
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        256,
+        12,
+        67,
+        64
+      ],
+      "smoothed": false,
+      "pred_name": "Arabic",
+      "gt_name": "Arabic"
+    },
+    {
+      "pred_label": 1,
+      "confidence": 0.9998226165771484,
+      "probs": [
+        0.00017740603652782738,
+        0.9998226165771484
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        320,
+        15,
+        136,
+        48
+      ],
+      "smoothed": false,
+      "pred_name": "Arabic",
+      "gt_name": "Arabic"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.9101051092147827,
+      "probs": [
+        0.9101051092147827,
+        0.08989494293928146
+      ],
+      "gt_label": -1,
+      "category_id": 5,
+      "bbox": [
+        462,
+        21,
+        45,
+        40
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "ambiguous"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.9101051092147827,
+      "probs": [
+        0.9101051092147827,
+        0.08989494293928146
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        507,
+        12,
+        71,
+        52
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Arabic"
+    },
+    {
+      "pred_label": 1,
+      "confidence": 0.7812284231185913,
+      "probs": [
+        0.2187715321779251,
+        0.7812284231185913
+      ],
+      "gt_label": -1,
+      "category_id": 5,
+      "bbox": [
+        580,
+        22,
+        97,
+        42
+      ],
+      "smoothed": false,
+      "pred_name": "Arabic",
+      "gt_name": "ambiguous"
+    },
+    {
+      "pred_label": 1,
+      "confidence": 0.7812284231185913,
+      "probs": [
+        0.2187715321779251,
+        0.7812284231185913
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        678,
+        6,
+        66,
+        67
+      ],
+      "smoothed": false,
+      "pred_name": "Arabic",
+      "gt_name": "Arabic"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.9999526739120483,
+      "probs": [
+        0.9999526739120483,
+        4.7291050577769056e-05
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        748,
+        12,
+        76,
+        60
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Arabic"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.8405312895774841,
+      "probs": [
+        0.8405312895774841,
+        0.15946871042251587
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        827,
+        12,
+        80,
+        68
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.8405302166938782,
+      "probs": [
+        0.8405302166938782,
+        0.15946973860263824
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        913,
+        25,
+        78,
+        36
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.7608227729797363,
+      "probs": [
+        0.7608227729797363,
+        0.2391771525144577
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        997,
+        6,
+        119,
+        51
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.9999572038650513,
+      "probs": [
+        0.9999572038650513,
+        4.276369872968644e-05
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        1118,
+        17,
+        73,
+        49
+      ],
+      "smoothed": true,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    }
+  ],
+  "F0_S63_W8.jpg": [
+    {
+      "pred_label": 0,
+      "confidence": 0.8097419738769531,
+      "probs": [
+        0.8097419738769531,
+        0.19025802612304688
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        10,
+        10,
+        185,
+        57
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.8097419738769531,
+      "probs": [
+        0.8097419738769531,
+        0.19025802612304688
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        201,
+        16,
+        59,
+        56
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.7045488357543945,
+      "probs": [
+        0.7045488357543945,
+        0.29545119404792786
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        263,
+        18,
+        128,
+        49
+      ],
+      "smoothed": true,
+      "pred_name": "Kurdish",
+      "gt_name": "Arabic"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.7286463975906372,
+      "probs": [
+        0.7286463975906372,
+        0.2713535726070404
+      ],
+      "gt_label": -1,
+      "category_id": 5,
+      "bbox": [
+        388,
+        20,
+        50,
+        45
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "ambiguous"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.7286463975906372,
+      "probs": [
+        0.7286463975906372,
+        0.2713535726070404
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        437,
+        24,
+        57,
+        48
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Arabic"
+    },
+    {
+      "pred_label": 1,
+      "confidence": 0.9993051886558533,
+      "probs": [
+        0.0006948310183361173,
+        0.9993051886558533
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        491,
+        28,
+        85,
+        43
+      ],
+      "smoothed": false,
+      "pred_name": "Arabic",
+      "gt_name": "Arabic"
+    },
+    {
+      "pred_label": 1,
+      "confidence": 0.9994805455207825,
+      "probs": [
+        0.0005194009863771498,
+        0.9994805455207825
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        574,
+        16,
+        95,
+        54
+      ],
+      "smoothed": false,
+      "pred_name": "Arabic",
+      "gt_name": "Arabic"
+    },
+    {
+      "pred_label": 1,
+      "confidence": 0.9997353553771973,
+      "probs": [
+        0.0002646238717716187,
+        0.9997353553771973
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        663,
+        10,
+        81,
+        58
+      ],
+      "smoothed": false,
+      "pred_name": "Arabic",
+      "gt_name": "Arabic"
+    },
+    {
+      "pred_label": 1,
+      "confidence": 0.9902541041374207,
+      "probs": [
+        0.009745909832417965,
+        0.9902541041374207
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        744,
+        16,
+        78,
+        61
+      ],
+      "smoothed": false,
+      "pred_name": "Arabic",
+      "gt_name": "Arabic"
+    },
+    {
+      "pred_label": 1,
+      "confidence": 0.985465407371521,
+      "probs": [
+        0.014534593559801579,
+        0.985465407371521
+      ],
+      "gt_label": 1,
+      "category_id": 1,
+      "bbox": [
+        811,
+        25,
+        113,
+        40
+      ],
+      "smoothed": false,
+      "pred_name": "Arabic",
+      "gt_name": "Arabic"
+    }
+  ],
+  "F0_S64_W30.jpg": [
+    {
+      "pred_label": 1,
+      "confidence": 0.66375333070755,
+      "probs": [
+        0.33624669909477234,
+        0.66375333070755
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        7,
+        11,
+        83,
+        49
+      ],
+      "smoothed": false,
+      "pred_name": "Arabic",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 1,
+      "confidence": 0.66375333070755,
+      "probs": [
+        0.33624669909477234,
+        0.66375333070755
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        91,
+        14,
+        76,
+        54
+      ],
+      "smoothed": false,
+      "pred_name": "Arabic",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.9999314546585083,
+      "probs": [
+        0.9999314546585083,
+        6.855493120383471e-05
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        165,
+        14,
+        87,
+        51
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.9998681545257568,
+      "probs": [
+        0.9998681545257568,
+        0.00013183786359149963
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        261,
+        11,
+        150,
+        53
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.9154772162437439,
+      "probs": [
+        0.9154772162437439,
+        0.08452282100915909
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        411,
+        12,
+        111,
+        48
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.915473997592926,
+      "probs": [
+        0.915473997592926,
+        0.08452597260475159
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        522,
+        7,
+        68,
+        55
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.8251419067382812,
+      "probs": [
+        0.8251419067382812,
+        0.17485813796520233
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        588,
+        5,
+        203,
+        49
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.9095566868782043,
+      "probs": [
+        0.9095566868782043,
+        0.09044324606657028
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        795,
+        22,
+        93,
+        32
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.8971973061561584,
+      "probs": [
+        0.8971973061561584,
+        0.10280266404151917
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        890,
+        17,
+        37,
+        47
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.9839597344398499,
+      "probs": [
+        0.9839597344398499,
+        0.016040271148085594
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        932,
+        12,
+        142,
+        50
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.9804008603096008,
+      "probs": [
+        0.9804008603096008,
+        0.019599197432398796
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        1078,
+        12,
+        73,
+        52
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.9927615523338318,
+      "probs": [
+        0.9927615523338318,
+        0.007238506805151701
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        1154,
+        11,
+        104,
+        43
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.8520750999450684,
+      "probs": [
+        0.8520750999450684,
+        0.1479249745607376
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        1262,
+        4,
+        163,
+        54
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.7612395286560059,
+      "probs": [
+        0.7612395286560059,
+        0.23876047134399414
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        1427,
+        18,
+        54,
+        50
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.7317461371421814,
+      "probs": [
+        0.7317461371421814,
+        0.268253892660141
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        1485,
+        17,
+        46,
+        35
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.8141326904296875,
+      "probs": [
+        0.8141326904296875,
+        0.1858673393726349
+      ],
+      "gt_label": -1,
+      "category_id": 4,
+      "bbox": [
+        1535,
+        10,
+        49,
+        50
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "ambiguous"
+    }
+  ],
+  "F0_S64_W37.jpg": [
+    {
+      "pred_label": 0,
+      "confidence": 0.8893976211547852,
+      "probs": [
+        0.8893976211547852,
+        0.11060235649347305
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        6,
+        20,
+        194,
+        44
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.9262511134147644,
+      "probs": [
+        0.9262511134147644,
+        0.07374884188175201
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        204,
+        18,
+        100,
+        44
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.8572037816047668,
+      "probs": [
+        0.8572037816047668,
+        0.14279614388942719
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        311,
+        15,
+        145,
+        49
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.9309070706367493,
+      "probs": [
+        0.9309070706367493,
+        0.06909290701150894
+      ],
+      "gt_label": -1,
+      "category_id": 4,
+      "bbox": [
+        457,
+        19,
+        43,
+        44
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "ambiguous"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.9309107661247253,
+      "probs": [
+        0.9309107661247253,
+        0.06908915936946869
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        499,
+        11,
+        161,
+        52
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.9725475907325745,
+      "probs": [
+        0.9725475907325745,
+        0.027452366426587105
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        665,
+        10,
+        182,
+        57
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.8934538960456848,
+      "probs": [
+        0.8934538960456848,
+        0.10654600709676743
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        844,
+        12,
+        45,
+        54
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.8401962518692017,
+      "probs": [
+        0.8401962518692017,
+        0.15980371832847595
+      ],
+      "gt_label": -1,
+      "category_id": 4,
+      "bbox": [
+        895,
+        12,
+        36,
+        47
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "ambiguous"
+    }
+  ],
+  "F0_S64_W44.jpg": [
+    {
+      "pred_label": 0,
+      "confidence": 0.9790773391723633,
+      "probs": [
+        0.9790773391723633,
+        0.02092265710234642
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        5,
+        16,
+        85,
+        42
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.9790773391723633,
+      "probs": [
+        0.9790773391723633,
+        0.02092265710234642
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        88,
+        15,
+        55,
+        45
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.9876498579978943,
+      "probs": [
+        0.9876498579978943,
+        0.01235018577426672
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        145,
+        16,
+        103,
+        46
+      ],
+      "smoothed": true,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.9994058609008789,
+      "probs": [
+        0.9994058609008789,
+        0.0005941897397860885
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        236,
+        17,
+        164,
+        41
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.997300922870636,
+      "probs": [
+        0.997300922870636,
+        0.002699097851291299
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        392,
+        15,
+        145,
+        46
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.9623432159423828,
+      "probs": [
+        0.9623432159423828,
+        0.037656769156455994
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        541,
+        13,
+        207,
+        55
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.8974301218986511,
+      "probs": [
+        0.8974301218986511,
+        0.10256988555192947
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        750,
+        15,
+        87,
+        43
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.8997177481651306,
+      "probs": [
+        0.8997177481651306,
+        0.10028225183486938
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        833,
+        20,
+        74,
+        42
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.9305391311645508,
+      "probs": [
+        0.9305391311645508,
+        0.06946080178022385
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        911,
+        12,
+        95,
+        60
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.8609911799430847,
+      "probs": [
+        0.8609911799430847,
+        0.13900884985923767
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        1011,
+        15,
+        146,
+        42
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.791509747505188,
+      "probs": [
+        0.791509747505188,
+        0.2084902673959732
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        1160,
+        22,
+        107,
+        34
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    }
+  ],
+  "F0_S64_W51.jpg": [
+    {
+      "pred_label": 0,
+      "confidence": 0.9999301433563232,
+      "probs": [
+        0.9999301433563232,
+        6.984059291426092e-05
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        0,
+        25,
+        80,
+        42
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.9544187188148499,
+      "probs": [
+        0.9544187188148499,
+        0.04558127000927925
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        83,
+        10,
+        81,
+        45
+      ],
+      "smoothed": true,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.9544381499290466,
+      "probs": [
+        0.9544381499290466,
+        0.04556184634566307
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        170,
+        15,
+        118,
+        47
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.961716890335083,
+      "probs": [
+        0.961716890335083,
+        0.03828311339020729
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        287,
+        15,
+        161,
+        48
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.9913627505302429,
+      "probs": [
+        0.9913627505302429,
+        0.008637231774628162
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        457,
+        16,
+        135,
+        47
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.9870596528053284,
+      "probs": [
+        0.9870596528053284,
+        0.012940351851284504
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        588,
+        12,
+        199,
+        52
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.9934284090995789,
+      "probs": [
+        0.9934284090995789,
+        0.006571593694388866
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        787,
+        16,
+        66,
+        46
+      ],
+      "smoothed": true,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.9932211637496948,
+      "probs": [
+        0.9932211637496948,
+        0.006778880953788757
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        853,
+        14,
+        132,
+        49
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.9497457146644592,
+      "probs": [
+        0.9497457146644592,
+        0.05025429651141167
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        992,
+        17,
+        115,
+        41
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.9301126003265381,
+      "probs": [
+        0.9301126003265381,
+        0.06988737732172012
+      ],
+      "gt_label": -1,
+      "category_id": 4,
+      "bbox": [
+        1106,
+        18,
+        35,
+        43
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "ambiguous"
+    }
+  ],
+  "F0_S64_W58.jpg": [
+    {
+      "pred_label": 0,
+      "confidence": 0.9569686651229858,
+      "probs": [
+        0.9569686651229858,
+        0.04303126782178879
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        14,
+        9,
+        124,
+        55
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.8916056752204895,
+      "probs": [
+        0.8916056752204895,
+        0.10839423537254333
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        140,
+        14,
+        111,
+        46
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.8916060328483582,
+      "probs": [
+        0.8916060328483582,
+        0.10839396715164185
+      ],
+      "gt_label": -1,
+      "category_id": 4,
+      "bbox": [
+        259,
+        17,
+        34,
+        40
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "ambiguous"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.8970072269439697,
+      "probs": [
+        0.8970072269439697,
+        0.1029927209019661
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        297,
+        18,
+        113,
+        45
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.9650709629058838,
+      "probs": [
+        0.9650709629058838,
+        0.034928999841213226
+      ],
+      "gt_label": -1,
+      "category_id": 4,
+      "bbox": [
+        416,
+        28,
+        26,
+        34
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "ambiguous"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.9301753640174866,
+      "probs": [
+        0.9301753640174866,
+        0.06982462108135223
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        443,
+        13,
+        93,
+        50
+      ],
+      "smoothed": true,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    }
+  ],
+  "F0_S64_W65.jpg": [
+    {
+      "pred_label": 0,
+      "confidence": 0.9999284744262695,
+      "probs": [
+        0.9999284744262695,
+        7.155112689360976e-05
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        9,
+        8,
+        77,
+        58
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.9999395608901978,
+      "probs": [
+        0.9999395608901978,
+        6.047826536814682e-05
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        89,
+        16,
+        90,
+        46
+      ],
+      "smoothed": true,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.9876998662948608,
+      "probs": [
+        0.9876998662948608,
+        0.012300163507461548
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        175,
+        3,
+        126,
+        56
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.991786777973175,
+      "probs": [
+        0.991786777973175,
+        0.008213245309889317
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        299,
+        20,
+        81,
+        38
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.9917929172515869,
+      "probs": [
+        0.9917929172515869,
+        0.008207025937736034
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        383,
+        17,
+        186,
+        48
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.8491711616516113,
+      "probs": [
+        0.8491711616516113,
+        0.15082885324954987
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        572,
+        11,
+        174,
+        51
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.8036341667175293,
+      "probs": [
+        0.8036341667175293,
+        0.19636589288711548
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        752,
+        11,
+        38,
+        51
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.7054665684700012,
+      "probs": [
+        0.7054665684700012,
+        0.29453346133232117
+      ],
+      "gt_label": -1,
+      "category_id": 4,
+      "bbox": [
+        789,
+        16,
+        54,
+        47
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "ambiguous"
+    }
+  ],
+  "F0_S64_W72.jpg": [
+    {
+      "pred_label": 0,
+      "confidence": 0.9998300671577454,
+      "probs": [
+        0.9998300671577454,
+        0.00016994663747027516
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        127,
+        12,
+        162,
+        49
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.9998747706413269,
+      "probs": [
+        0.9998747706413269,
+        0.00012529139348771423
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        289,
+        18,
+        84,
+        47
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.9371410012245178,
+      "probs": [
+        0.9371410012245178,
+        0.0628589540719986
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        380,
+        6,
+        122,
+        58
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.9372315406799316,
+      "probs": [
+        0.9372315406799316,
+        0.06276848167181015
+      ],
+      "gt_label": -1,
+      "category_id": 4,
+      "bbox": [
+        505,
+        22,
+        42,
+        43
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "ambiguous"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.9058653116226196,
+      "probs": [
+        0.9058653116226196,
+        0.09413472563028336
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        551,
+        12,
+        186,
+        55
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    }
+  ],
+  "F0_S64_W79.jpg": [
+    {
+      "pred_label": 0,
+      "confidence": 0.9999595880508423,
+      "probs": [
+        0.9999595880508423,
+        4.039170016767457e-05
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        6,
+        18,
+        138,
+        54
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.9390463829040527,
+      "probs": [
+        0.9390463829040527,
+        0.06095358356833458
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        140,
+        16,
+        38,
+        47
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.9390432238578796,
+      "probs": [
+        0.9390432238578796,
+        0.06095672771334648
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        180,
+        14,
+        140,
+        46
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.8597362041473389,
+      "probs": [
+        0.8597362041473389,
+        0.14026381075382233
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        318,
+        16,
+        125,
+        42
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.9206362366676331,
+      "probs": [
+        0.9206362366676331,
+        0.07936377823352814
+      ],
+      "gt_label": -1,
+      "category_id": 4,
+      "bbox": [
+        446,
+        9,
+        32,
+        45
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "ambiguous"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.9173316359519958,
+      "probs": [
+        0.9173316359519958,
+        0.08266843110322952
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        494,
+        17,
+        138,
+        45
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.8572371602058411,
+      "probs": [
+        0.8572371602058411,
+        0.14276279509067535
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        637,
+        18,
+        51,
+        38
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.7858957052230835,
+      "probs": [
+        0.7858957052230835,
+        0.21410426497459412
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        692,
+        14,
+        115,
+        47
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 1,
+      "confidence": 0.5912595987319946,
+      "probs": [
+        0.408740371465683,
+        0.5912595987319946
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        813,
+        17,
+        106,
+        41
+      ],
+      "smoothed": false,
+      "pred_name": "Arabic",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 1,
+      "confidence": 0.5912595987319946,
+      "probs": [
+        0.408740371465683,
+        0.5912595987319946
+      ],
+      "gt_label": -1,
+      "category_id": 3,
+      "bbox": [
+        919,
+        18,
+        93,
+        43
+      ],
+      "smoothed": false,
+      "pred_name": "Arabic",
+      "gt_name": "ambiguous"
+    }
+  ],
+  "F0_S64_W86.jpg": [
+    {
+      "pred_label": 0,
+      "confidence": 0.9879200458526611,
+      "probs": [
+        0.9879200458526611,
+        0.012079950422048569
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        7,
+        13,
+        144,
+        45
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.8220542669296265,
+      "probs": [
+        0.8220542669296265,
+        0.17794573307037354
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        150,
+        21,
+        88,
+        36
+      ],
+      "smoothed": true,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 1,
+      "confidence": 0.8284991979598999,
+      "probs": [
+        0.1715007722377777,
+        0.8284991979598999
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        238,
+        21,
+        59,
+        44
+      ],
+      "smoothed": true,
+      "pred_name": "Arabic",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.8280751705169678,
+      "probs": [
+        0.8280751705169678,
+        0.17192481458187103
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        311,
+        9,
+        131,
+        53
+      ],
+      "smoothed": true,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.9999634623527527,
+      "probs": [
+        0.9999634623527527,
+        3.653455132734962e-05
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        445,
+        18,
+        70,
+        44
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.9997028708457947,
+      "probs": [
+        0.9997028708457947,
+        0.00029716567951254547
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        517,
+        12,
+        79,
+        53
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.9557366967201233,
+      "probs": [
+        0.9557366967201233,
+        0.04426330700516701
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        602,
+        14,
+        107,
+        49
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.9557368159294128,
+      "probs": [
+        0.9557368159294128,
+        0.044263239949941635
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        712,
+        11,
+        71,
+        49
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.9559934735298157,
+      "probs": [
+        0.9559934735298157,
+        0.04400654509663582
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        785,
+        7,
+        112,
+        63
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.9004309773445129,
+      "probs": [
+        0.9004309773445129,
+        0.09956898540258408
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        897,
+        9,
+        80,
+        52
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.8506639003753662,
+      "probs": [
+        0.8506639003753662,
+        0.14933611452579498
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        980,
+        16,
+        108,
+        43
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    }
+  ],
+  "F0_S64_W93.jpg": [
+    {
+      "pred_label": 0,
+      "confidence": 0.9089368581771851,
+      "probs": [
+        0.9089368581771851,
+        0.09106308966875076
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        4,
+        14,
+        147,
+        45
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.8313944935798645,
+      "probs": [
+        0.8313944935798645,
+        0.16860540211200714
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        158,
+        17,
+        130,
+        38
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.8098651766777039,
+      "probs": [
+        0.8098651766777039,
+        0.19013486802577972
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        291,
+        19,
+        98,
+        36
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.7488455772399902,
+      "probs": [
+        0.7488455772399902,
+        0.25115445256233215
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        396,
+        18,
+        54,
+        53
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.8544800877571106,
+      "probs": [
+        0.8544800877571106,
+        0.1455199122428894
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        453,
+        8,
+        34,
+        48
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.7792828679084778,
+      "probs": [
+        0.7792828679084778,
+        0.22071708738803864
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        491,
+        12,
+        97,
+        43
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.8420450091362,
+      "probs": [
+        0.8420450091362,
+        0.15795503556728363
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        592,
+        19,
+        91,
+        38
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.8442544937133789,
+      "probs": [
+        0.8442544937133789,
+        0.15574553608894348
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        685,
+        16,
+        80,
+        48
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    },
+    {
+      "pred_label": 0,
+      "confidence": 0.9115084409713745,
+      "probs": [
+        0.9115084409713745,
+        0.0884915441274643
+      ],
+      "gt_label": 0,
+      "category_id": 2,
+      "bbox": [
+        769,
+        17,
+        64,
+        40
+      ],
+      "smoothed": false,
+      "pred_name": "Kurdish",
+      "gt_name": "Kurdish"
+    }
+  ]
+}

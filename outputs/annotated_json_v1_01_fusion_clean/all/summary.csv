@@ -1,0 +1,3 @@
+mode,accuracy,macro_f1,total_correct,total_scored_words
+no_knn,0.8401,0.8397,641,763
+knn,0.8729,0.8722,666,763
